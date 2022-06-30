@@ -1,0 +1,17 @@
+2022-06-30 00:28:22,976 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erpnext
+2022-06-30 00:28:23,083 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erpnext
+2022-06-30 00:28:23,351 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erpnext
+2022-06-30 00:28:23,440 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erpnext
+2022-06-30 00:28:23,618 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erpnext
+2022-06-30 00:28:23,705 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erpnext
+2022-06-30 00:28:23,894 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erpnext
+2022-06-30 00:28:23,992 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erpnext
+2022-06-30 00:28:24,204 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erpnext
+2022-06-30 00:28:24,313 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erpnext
+2022-06-30 00:28:24,594 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erpnext
+2022-06-30 00:28:24,691 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erpnext
+2022-06-30 00:28:24,968 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erpnext
+2022-06-30 00:28:25,064 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erpnext
+2022-06-30 00:28:25,263 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erpnext
+2022-06-30 00:30:23,435 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erpnext
+2022-06-30 00:30:23,784 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for erpnext

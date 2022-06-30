@@ -1,0 +1,78 @@
+2022-06-28 12:45:50,576 INFO /opt/bitnami/erpnext/bin/bench worker --queue short
+2022-06-28 12:45:50,577 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-28 12:45:51,576 INFO /opt/bitnami/erpnext/bin/bench worker --queue default
+2022-06-28 12:45:51,576 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-29 08:40:05,568 INFO /opt/bitnami/erpnext/bin/bench backup-all-sites
+2022-06-29 08:40:05,569 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-29 08:40:09,622 WARNING /opt/bitnami/erpnext/bin/bench backup-all-sites executed with exit code 1
+2022-06-29 08:48:05,627 INFO /opt/bitnami/erpnext/bin/bench drop demo
+2022-06-29 08:48:05,628 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-29 08:48:06,596 WARNING /opt/bitnami/erpnext/bin/bench drop demo executed with exit code 1
+2022-06-29 08:48:20,421 INFO /opt/bitnami/erpnext/bin/bench drop demo
+2022-06-29 08:48:20,421 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-29 08:48:21,414 WARNING /opt/bitnami/erpnext/bin/bench drop demo executed with exit code 1
+2022-06-29 08:48:46,759 INFO /opt/bitnami/erpnext/bin/bench drop-site demo
+2022-06-29 08:48:46,759 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-29 08:49:47,854 INFO /opt/bitnami/erpnext/bin/bench drop-site demo --no-backup
+2022-06-29 08:49:47,854 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-29 08:50:51,016 INFO /opt/bitnami/erpnext/bin/bench drop-site demo --no-backup
+2022-06-29 08:50:51,016 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-30 08:15:31,071 INFO /opt/bitnami/erpnext/bin/bench worker --queue default
+2022-06-30 08:15:31,072 INFO /opt/bitnami/erpnext/bin/bench schedule
+2022-06-30 08:15:31,074 INFO /opt/bitnami/erpnext/bin/bench worker --queue short
+2022-06-30 08:15:31,074 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-30 08:15:31,074 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-30 08:15:31,074 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-30 08:22:53,923 INFO /opt/bitnami/erpnext/bin/bench schedule
+2022-06-30 08:22:53,925 INFO /opt/bitnami/erpnext/bin/bench worker --queue default
+2022-06-30 08:22:53,923 INFO /opt/bitnami/erpnext/bin/bench worker --queue long
+2022-06-30 08:22:53,926 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-30 08:22:53,926 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-30 08:22:53,926 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2022-06-30 08:22:53,933 INFO /opt/bitnami/erpnext/bin/bench worker --queue short
+2022-06-30 08:22:53,933 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+

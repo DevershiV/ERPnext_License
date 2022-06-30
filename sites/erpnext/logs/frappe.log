@@ -1,0 +1,153 @@
+2022-06-24 07:52:54,534 ERROR frappe New Exception collected with id: 2022-06-24 07:52:54.522684-127.0.0.1-43e
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 00:52:44","route":"List/Sales Order/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:10:02,702 ERROR frappe New Exception collected with id: 2022-06-24 08:10:02.692833-127.0.0.1-343
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:09:52","route":"List/Sales Order/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:13:10,785 ERROR frappe New Exception collected with id: 2022-06-24 08:13:10.777656-127.0.0.1-e3c
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:13:00","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:16:10,999 ERROR frappe New Exception collected with id: 2022-06-24 08:16:10.996553-127.0.0.1-2b1
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:16:00","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:16:25,066 ERROR frappe New Exception collected with id: 2022-06-24 08:16:25.060149-127.0.0.1-ee9
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:16:14","route":"List/Features/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:17:58,200 ERROR frappe New Exception collected with id: 2022-06-24 08:17:58.194500-127.0.0.1-30a
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:17:47","route":"List/Plan/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:19:13,768 ERROR frappe New Exception collected with id: 2022-06-24 08:19:13.764072-127.0.0.1-4db
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:19:03","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:25:29,842 ERROR frappe New Exception collected with id: 2022-06-24 08:25:29.823935-127.0.0.1-67b
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:25:18","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:25:48,322 ERROR frappe New Exception collected with id: 2022-06-24 08:25:48.300241-127.0.0.1-550
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:25:36","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:28:21,896 ERROR frappe New Exception collected with id: 2022-06-24 08:28:21.889368-127.0.0.1-61b
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:28:11","route":"List/Lead/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:44:26,653 ERROR frappe New Exception collected with id: 2022-06-24 08:44:26.648634-127.0.0.1-9a8
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:44:16","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:46:24,276 ERROR frappe New Exception collected with id: 2022-06-24 08:46:24.242978-127.0.0.1-553
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:46:12","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 08:50:32,485 ERROR frappe New Exception collected with id: 2022-06-24 08:50:32.475344-127.0.0.1-4ed
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 01:50:07","route":"Workspaces/Home"},{"creation":"2022-06-24 01:50:14","route":"Workspaces/CRM"},{"creation":"2022-06-24 01:50:19","route":"List/Lead/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 09:06:34,612 ERROR frappe New Exception collected with id: 2022-06-24 09:06:34.607878-127.0.0.1-31d
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 02:06:19","route":"List/Auto Repeat/List"},{"creation":"2022-06-24 02:06:24","route":"List/Auto Repeat/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 09:14:16,636 ERROR frappe New Exception collected with id: 2022-06-24 09:14:16.628283-127.0.0.1-954
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 02:14:05","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 09:22:26,293 ERROR frappe New Exception collected with id: 2022-06-24 09:22:26.286367-127.0.0.1-826
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 02:22:16","route":"List/Subscription/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 09:26:29,673 ERROR frappe New Exception collected with id: 2022-06-24 09:26:29.669140-127.0.0.1-2cf
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 02:26:19","route":"List/Subscription/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 11:49:15,935 ERROR frappe New Exception collected with id: 2022-06-24 11:49:15.920121-127.0.0.1-a80
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 04:49:04","route":"List/Sales Invoice/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 11:55:56,592 ERROR frappe New Exception collected with id: 2022-06-24 11:55:56.521764-127.0.0.1-e1d
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 04:55:40","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 11:57:13,855 ERROR frappe New Exception collected with id: 2022-06-24 11:57:13.838961-127.0.0.1-e5e
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 04:56:57","route":"Workspaces/Accounting"},{"creation":"2022-06-24 04:56:59","route":"List/Subscription Plan/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 11:58:10,551 ERROR frappe New Exception collected with id: 2022-06-24 11:58:10.538389-127.0.0.1-47d
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 04:57:58","route":"Workspaces/Accounting"},{"creation":"2022-06-24 04:58:00","route":"List/Subscription/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 12:03:27,295 ERROR frappe New Exception collected with id: 2022-06-24 12:03:27.290284-127.0.0.1-8df
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 05:03:17","route":"List/Subscription/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 12:08:00,601 ERROR frappe New Exception collected with id: 2022-06-24 12:08:00.594465-127.0.0.1-32e
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 05:07:50","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 12:08:21,760 ERROR frappe New Exception collected with id: 2022-06-24 12:08:21.755941-127.0.0.1-1bc
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 05:08:11","route":"List/Item Price/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 12:09:09,221 ERROR frappe New Exception collected with id: 2022-06-24 12:09:09.166760-127.0.0.1-2f1
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 05:08:56","route":"List/Item Price/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 12:11:52,909 ERROR frappe New Exception collected with id: 2022-06-24 12:11:51.313940-127.0.0.1-ede
+Site: erpnext
+Form Dict: {'doctype': 'Item Price', 'name': '0ff98b937b', 'cmd': 'frappe.client.delete'}
+2022-06-24 12:12:29,553 ERROR frappe New Exception collected with id: 2022-06-24 12:12:29.545296-127.0.0.1-62b
+Site: erpnext
+Form Dict: {'doctype': 'Item Price', 'name': '0ff98b937b', 'cmd': 'frappe.client.delete'}
+2022-06-24 12:51:32,541 ERROR frappe New Exception collected with id: 2022-06-24 12:51:32.520244-127.0.0.1-e41
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 05:51:21","route":"List/Subscription/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 12:54:40,787 ERROR frappe New Exception collected with id: 2022-06-24 12:54:40.760515-127.0.0.1-44d
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 05:54:28","route":"List/Subscription/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-24 12:56:21,248 ERROR frappe New Exception collected with id: 2022-06-24 12:56:21.244899-127.0.0.1-b67
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-24 05:56:11","route":"List/Subscription/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 08:20:44,831 ERROR frappe New Exception collected with id: 2022-06-27 08:20:44.827331-127.0.0.1-956
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 01:20:34","route":"Workspaces/Home"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 13:36:00,761 ERROR frappe New Exception collected with id: 2022-06-27 13:36:00.756999-127.0.0.1-6b1
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 06:35:50","route":"List/Features/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 13:37:56,912 ERROR frappe New Exception collected with id: 2022-06-27 13:37:56.908289-127.0.0.1-328
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 06:37:38","route":"Workspaces/Home"},{"creation":"2022-06-27 06:37:40","route":"Workspaces/CRM"},{"creation":"2022-06-27 06:37:43","route":"List/Customer/List"},{"creation":"2022-06-27 06:37:46","route":"List/Lead/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 13:44:03,477 ERROR frappe New Exception collected with id: 2022-06-27 13:44:03.473086-127.0.0.1-dbc
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 06:43:45","route":"Workspaces/Home"},{"creation":"2022-06-27 06:43:49","route":"Workspaces/Stock"},{"creation":"2022-06-27 06:43:53","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 13:46:18,664 ERROR frappe New Exception collected with id: 2022-06-27 13:46:18.660288-127.0.0.1-e0e
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 06:46:08","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 13:46:45,560 ERROR frappe New Exception collected with id: 2022-06-27 13:46:45.556815-127.0.0.1-bae
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 06:46:35","route":"List/Item/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 13:51:00,438 ERROR frappe New Exception collected with id: 2022-06-27 13:51:00.434100-127.0.0.1-dd8
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 06:50:43","route":"Workspaces/Home"},{"creation":"2022-06-27 06:50:45","route":"Workspaces/CRM"},{"creation":"2022-06-27 06:50:50","route":"List/Lead/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 13:57:57,132 ERROR frappe New Exception collected with id: 2022-06-27 13:57:57.127958-127.0.0.1-e4c
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 06:57:46","route":"List/Auto Repeat/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 13:58:37,669 ERROR frappe New Exception collected with id: 2022-06-27 13:58:37.663282-127.0.0.1-034
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 06:58:25","route":"Workspaces/Home"},{"creation":"2022-06-27 06:58:27","route":"Workspaces/Accounting"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-27 14:04:18,229 ERROR frappe New Exception collected with id: 2022-06-27 14:04:18.226477-127.0.0.1-e81
+Site: erpnext
+Form Dict: {'routes': '[{"creation":"2022-06-27 07:04:07","route":"List/Subscription/List"}]', 'cmd': 'frappe.desk.doctype.route_history.route_history.deferred_insert'}
+2022-06-28 12:51:11,494 ERROR frappe New Exception collected with id: 2022-06-28 12:51:11.248433-127.0.0.1-b15
+Site: erpnext
+Form Dict: {}
+2022-06-28 13:05:07,590 ERROR frappe New Exception collected with id: 2022-06-28 13:05:07.495844-127.0.0.1-116
+Site: erpnext
+Form Dict: {}
+2022-06-28 14:05:32,357 ERROR frappe New Exception collected with id: 2022-06-28 14:05:32.248809-127.0.0.1-29f
+Site: erpnext
+Form Dict: {}
+2022-06-28 15:05:56,053 ERROR frappe New Exception collected with id: 2022-06-28 15:05:55.950685-127.0.0.1-709
+Site: erpnext
+Form Dict: {}
+2022-06-28 16:05:22,371 ERROR frappe New Exception collected with id: 2022-06-28 16:05:22.245248-127.0.0.1-abe
+Site: erpnext
+Form Dict: {}
+2022-06-30 08:21:32,046 ERROR frappe New Exception collected with id: 2022-06-30 08:21:31.612438-127.0.0.1-956
+Site: erpnext
+Form Dict: {}
+2022-06-30 08:21:32,133 ERROR frappe New Exception collected with id: 2022-06-30 08:21:32.121656-127.0.0.1-9d3
+Site: erpnext
+Form Dict: {}
+2022-06-30 08:21:35,571 ERROR frappe New Exception collected with id: 2022-06-30 08:21:35.443127-127.0.0.1-d9c
+Site: erpnext
+Form Dict: {}
+2022-06-30 08:21:35,607 ERROR frappe New Exception collected with id: 2022-06-30 08:21:35.599791-127.0.0.1-93b
+Site: erpnext
+Form Dict: {}
+2022-06-30 08:21:38,126 ERROR frappe New Exception collected with id: 2022-06-30 08:21:38.120480-127.0.0.1-dc8
+Site: erpnext
+Form Dict: {}
+2022-06-30 08:21:38,154 ERROR frappe New Exception collected with id: 2022-06-30 08:21:38.148341-127.0.0.1-ec8
+Site: erpnext
+Form Dict: {}

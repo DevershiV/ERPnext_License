@@ -1,0 +1,1587 @@
+2022-06-21 10:48:23,367 ERROR frappe New Exception collected with id: 2022-06-21 10:48:23.359281-127.0.0.1-33f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uAv5'}
+2022-06-21 10:48:23,439 ERROR frappe New Exception collected with id: 2022-06-21 10:48:23.435618-127.0.0.1-14b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uAzh'}
+2022-06-21 10:48:25,454 ERROR frappe New Exception collected with id: 2022-06-21 10:48:25.451023-127.0.0.1-3b2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uBTL'}
+2022-06-21 10:48:25,471 ERROR frappe New Exception collected with id: 2022-06-21 10:48:25.467595-127.0.0.1-18b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uBTc'}
+2022-06-21 10:48:26,155 ERROR frappe New Exception collected with id: 2022-06-21 10:48:26.148799-127.0.0.1-f4f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uBcn'}
+2022-06-21 10:48:27,439 ERROR frappe New Exception collected with id: 2022-06-21 10:48:27.435522-127.0.0.1-c03
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uByC'}
+2022-06-21 10:48:29,327 ERROR frappe New Exception collected with id: 2022-06-21 10:48:29.321995-127.0.0.1-d73
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uCM8'}
+2022-06-21 10:48:29,430 ERROR frappe New Exception collected with id: 2022-06-21 10:48:29.427065-127.0.0.1-cab
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uCRR'}
+2022-06-21 10:48:31,435 ERROR frappe New Exception collected with id: 2022-06-21 10:48:31.432175-127.0.0.1-564
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uCwh'}
+2022-06-21 10:48:34,747 ERROR frappe New Exception collected with id: 2022-06-21 10:48:34.743586-127.0.0.1-dd1
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uDfZ'}
+2022-06-21 10:48:35,760 ERROR frappe New Exception collected with id: 2022-06-21 10:48:35.756979-127.0.0.1-445
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uDvC'}
+2022-06-21 10:48:37,761 ERROR frappe New Exception collected with id: 2022-06-21 10:48:37.752894-127.0.0.1-352
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uEOS'}
+2022-06-21 10:48:40,998 ERROR frappe New Exception collected with id: 2022-06-21 10:48:40.989248-127.0.0.1-e10
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uF7J'}
+2022-06-21 10:48:41,056 ERROR frappe New Exception collected with id: 2022-06-21 10:48:41.052959-127.0.0.1-527
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uFGU'}
+2022-06-21 10:48:41,746 ERROR frappe New Exception collected with id: 2022-06-21 10:48:41.741800-127.0.0.1-58b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uFNI'}
+2022-06-21 10:48:43,432 ERROR frappe New Exception collected with id: 2022-06-21 10:48:43.428589-127.0.0.1-f05
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uFsB'}
+2022-06-21 10:48:43,772 ERROR frappe New Exception collected with id: 2022-06-21 10:48:43.765232-127.0.0.1-855
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uFsV'}
+2022-06-21 10:48:46,734 ERROR frappe New Exception collected with id: 2022-06-21 10:48:46.730751-127.0.0.1-3d4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uGb4'}
+2022-06-21 10:48:46,999 ERROR frappe New Exception collected with id: 2022-06-21 10:48:46.994915-127.0.0.1-a82
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uGg7'}
+2022-06-21 10:48:47,398 ERROR frappe New Exception collected with id: 2022-06-21 10:48:47.391450-127.0.0.1-a46
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uGpQ'}
+2022-06-21 10:48:47,669 ERROR frappe New Exception collected with id: 2022-06-21 10:48:47.660907-127.0.0.1-227
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uGqi'}
+2022-06-21 10:48:47,747 ERROR frappe New Exception collected with id: 2022-06-21 10:48:47.742586-127.0.0.1-d8e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uGqi'}
+2022-06-21 10:48:48,070 ERROR frappe New Exception collected with id: 2022-06-21 10:48:48.067260-127.0.0.1-7ab
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uG-4'}
+2022-06-21 10:48:48,347 ERROR frappe New Exception collected with id: 2022-06-21 10:48:48.338527-127.0.0.1-a2e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uG-D'}
+2022-06-21 10:48:52,431 ERROR frappe New Exception collected with id: 2022-06-21 10:48:52.427750-127.0.0.1-023
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uI2p'}
+2022-06-21 10:48:52,736 ERROR frappe New Exception collected with id: 2022-06-21 10:48:52.733035-127.0.0.1-239
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uI2q'}
+2022-06-21 10:48:53,444 ERROR frappe New Exception collected with id: 2022-06-21 10:48:53.439570-127.0.0.1-77b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uIIS'}
+2022-06-21 10:48:53,756 ERROR frappe New Exception collected with id: 2022-06-21 10:48:53.751942-127.0.0.1-171
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uIIm'}
+2022-06-21 10:48:54,080 ERROR frappe New Exception collected with id: 2022-06-21 10:48:54.076248-127.0.0.1-a3d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uISc'}
+2022-06-21 10:48:55,434 ERROR frappe New Exception collected with id: 2022-06-21 10:48:55.429107-127.0.0.1-cb1
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uIni'}
+2022-06-21 10:48:57,446 ERROR frappe New Exception collected with id: 2022-06-21 10:48:57.439515-127.0.0.1-d21
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uJGx'}
+2022-06-21 10:48:58,734 ERROR frappe New Exception collected with id: 2022-06-21 10:48:58.731269-127.0.0.1-5b6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uJWa'}
+2022-06-21 10:48:59,056 ERROR frappe New Exception collected with id: 2022-06-21 10:48:59.053219-127.0.0.1-cc5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uJfs'}
+2022-06-21 10:48:59,450 ERROR frappe New Exception collected with id: 2022-06-21 10:48:59.445399-127.0.0.1-f95
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uJmB'}
+2022-06-21 10:49:01,992 ERROR frappe New Exception collected with id: 2022-06-21 10:49:01.988710-127.0.0.1-6e8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uKKc'}
+2022-06-21 10:49:02,073 ERROR frappe New Exception collected with id: 2022-06-21 10:49:02.070233-127.0.0.1-68c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uKOX'}
+2022-06-21 10:49:04,745 ERROR frappe New Exception collected with id: 2022-06-21 10:49:04.742338-127.0.0.1-500
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uK-K'}
+2022-06-21 10:49:05,022 ERROR frappe New Exception collected with id: 2022-06-21 10:49:05.006645-127.0.0.1-2dc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uL3Y'}
+2022-06-21 10:49:05,753 ERROR frappe New Exception collected with id: 2022-06-21 10:49:05.749587-127.0.0.1-93d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uLEF'}
+2022-06-21 10:49:06,081 ERROR frappe New Exception collected with id: 2022-06-21 10:49:06.077459-127.0.0.1-c59
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uLJH'}
+2022-06-21 10:49:06,418 ERROR frappe New Exception collected with id: 2022-06-21 10:49:06.410207-127.0.0.1-a51
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uLOP'}
+2022-06-21 10:49:06,645 ERROR frappe New Exception collected with id: 2022-06-21 10:49:06.641776-127.0.0.1-aa3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uLSH'}
+2022-06-21 10:49:06,744 ERROR frappe New Exception collected with id: 2022-06-21 10:49:06.740889-127.0.0.1-053
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uLXF'}
+2022-06-21 10:49:09,451 ERROR frappe New Exception collected with id: 2022-06-21 10:49:09.443492-127.0.0.1-22c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uMCR'}
+2022-06-21 10:49:10,743 ERROR frappe New Exception collected with id: 2022-06-21 10:49:10.732943-127.0.0.1-8c2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uMS3'}
+2022-06-21 10:49:10,744 ERROR frappe New Exception collected with id: 2022-06-21 10:49:10.738943-127.0.0.1-01e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uMS4'}
+2022-06-21 10:49:11,011 ERROR frappe New Exception collected with id: 2022-06-21 10:49:10.997117-127.0.0.1-496
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uMXK'}
+2022-06-21 10:49:13,733 ERROR frappe New Exception collected with id: 2022-06-21 10:49:13.730343-127.0.0.1-0ce
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uNAx'}
+2022-06-21 10:49:15,449 ERROR frappe New Exception collected with id: 2022-06-21 10:49:15.443452-127.0.0.1-4ca
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uNgA'}
+2022-06-21 10:49:18,430 ERROR frappe New Exception collected with id: 2022-06-21 10:49:18.426670-127.0.0.1-976
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uOP3'}
+2022-06-21 10:49:18,746 ERROR frappe New Exception collected with id: 2022-06-21 10:49:18.740393-127.0.0.1-362
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uOP3'}
+2022-06-21 10:49:19,073 ERROR frappe New Exception collected with id: 2022-06-21 10:49:19.069074-127.0.0.1-7ed
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uOUO'}
+2022-06-21 10:49:19,663 ERROR frappe New Exception collected with id: 2022-06-21 10:49:19.655687-127.0.0.1-428
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uOeh'}
+2022-06-21 10:49:19,985 ERROR frappe New Exception collected with id: 2022-06-21 10:49:19.981397-127.0.0.1-879
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uOji'}
+2022-06-21 10:49:20,050 ERROR frappe New Exception collected with id: 2022-06-21 10:49:20.047064-127.0.0.1-e72
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uOne'}
+2022-06-21 10:49:22,737 ERROR frappe New Exception collected with id: 2022-06-21 10:49:22.734235-127.0.0.1-af2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uPNZ'}
+2022-06-21 10:49:23,067 ERROR frappe New Exception collected with id: 2022-06-21 10:49:23.064179-127.0.0.1-ec9
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uPXY'}
+2022-06-21 10:49:24,739 ERROR frappe New Exception collected with id: 2022-06-21 10:49:24.736233-127.0.0.1-f0a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uPsq'}
+2022-06-21 10:49:25,454 ERROR frappe New Exception collected with id: 2022-06-21 10:49:25.446312-127.0.0.1-5aa
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uQ6S'}
+2022-06-21 10:49:27,741 ERROR frappe New Exception collected with id: 2022-06-21 10:49:27.737867-127.0.0.1-6dd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uQbh'}
+2022-06-21 10:49:28,431 ERROR frappe New Exception collected with id: 2022-06-21 10:49:28.427845-127.0.0.1-fe2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uQrJ'}
+2022-06-21 10:49:28,770 ERROR frappe New Exception collected with id: 2022-06-21 10:49:28.766876-127.0.0.1-bca
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uQwe'}
+2022-06-21 10:49:30,754 ERROR frappe New Exception collected with id: 2022-06-21 10:49:30.745291-127.0.0.1-a24
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uRKa'}
+2022-06-21 10:49:30,987 ERROR frappe New Exception collected with id: 2022-06-21 10:49:30.981949-127.0.0.1-3bc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uRKa'}
+2022-06-21 10:49:32,027 ERROR frappe New Exception collected with id: 2022-06-21 10:49:32.017464-127.0.0.1-2ad
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uRfX'}
+2022-06-21 10:49:33,439 ERROR frappe New Exception collected with id: 2022-06-21 10:49:33.435432-127.0.0.1-c35
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uS3S'}
+2022-06-21 10:49:34,758 ERROR frappe New Exception collected with id: 2022-06-21 10:49:34.750199-127.0.0.1-c0d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uSJ3'}
+2022-06-21 10:49:36,794 ERROR frappe New Exception collected with id: 2022-06-21 10:49:36.790971-127.0.0.1-b7c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uSpI'}
+2022-06-21 10:49:39,758 ERROR frappe New Exception collected with id: 2022-06-21 10:49:39.753065-127.0.0.1-dfa
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uTXC'}
+2022-06-21 10:49:39,991 ERROR frappe New Exception collected with id: 2022-06-21 10:49:39.987530-127.0.0.1-e10
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uTcc'}
+2022-06-21 10:49:40,446 ERROR frappe New Exception collected with id: 2022-06-21 10:49:40.440222-127.0.0.1-466
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uTmp'}
+2022-06-21 10:49:40,769 ERROR frappe New Exception collected with id: 2022-06-21 10:49:40.764679-127.0.0.1-936
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uTs7'}
+2022-06-21 10:49:41,090 ERROR frappe New Exception collected with id: 2022-06-21 10:49:41.087142-127.0.0.1-245
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uTsO'}
+2022-06-21 10:49:42,768 ERROR frappe New Exception collected with id: 2022-06-21 10:49:42.763523-127.0.0.1-905
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uUGR'}
+2022-06-21 10:49:43,087 ERROR frappe New Exception collected with id: 2022-06-21 10:49:43.084300-127.0.0.1-293
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uULb'}
+2022-06-21 10:49:43,430 ERROR frappe New Exception collected with id: 2022-06-21 10:49:43.426653-127.0.0.1-c12
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uUVi'}
+2022-06-21 10:49:43,753 ERROR frappe New Exception collected with id: 2022-06-21 10:49:43.750499-127.0.0.1-3fd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uUVz'}
+2022-06-21 10:49:46,987 ERROR frappe New Exception collected with id: 2022-06-21 10:49:46.983125-127.0.0.1-f24
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uVEa'}
+2022-06-21 10:49:48,432 ERROR frappe New Exception collected with id: 2022-06-21 10:49:48.428240-127.0.0.1-994
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uVjp'}
+2022-06-21 10:49:49,440 ERROR frappe New Exception collected with id: 2022-06-21 10:49:49.436050-127.0.0.1-647
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uVzR'}
+2022-06-21 10:49:50,032 ERROR frappe New Exception collected with id: 2022-06-21 10:49:50.022037-127.0.0.1-cce
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uW3E'}
+2022-06-21 10:49:50,101 ERROR frappe New Exception collected with id: 2022-06-21 10:49:50.097705-127.0.0.1-a3a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uW7A'}
+2022-06-21 10:49:51,448 ERROR frappe New Exception collected with id: 2022-06-21 10:49:51.441562-127.0.0.1-add
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uWSi'}
+2022-06-21 10:49:51,788 ERROR frappe New Exception collected with id: 2022-06-21 10:49:51.779113-127.0.0.1-bdb
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uWTF'}
+2022-06-21 10:49:52,355 ERROR frappe New Exception collected with id: 2022-06-21 10:49:52.349339-127.0.0.1-785
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uWde'}
+2022-06-21 10:49:52,433 ERROR frappe New Exception collected with id: 2022-06-21 10:49:52.429639-127.0.0.1-04e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uWhR'}
+2022-06-21 10:49:52,730 ERROR frappe New Exception collected with id: 2022-06-21 10:49:52.726526-127.0.0.1-675
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uWmR'}
+2022-06-21 10:49:52,763 ERROR frappe New Exception collected with id: 2022-06-21 10:49:52.759673-127.0.0.1-aaa
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uWnY'}
+2022-06-21 10:49:54,438 ERROR frappe New Exception collected with id: 2022-06-21 10:49:54.435288-127.0.0.1-33d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uXBZ'}
+2022-06-21 10:49:58,435 ERROR frappe New Exception collected with id: 2022-06-21 10:49:58.431284-127.0.0.1-e3c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uYA3'}
+2022-06-21 10:49:58,741 ERROR frappe New Exception collected with id: 2022-06-21 10:49:58.736964-127.0.0.1-214
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uYA4'}
+2022-06-21 10:49:58,751 ERROR frappe New Exception collected with id: 2022-06-21 10:49:58.747091-127.0.0.1-82e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uYA3'}
+2022-06-21 10:49:58,767 ERROR frappe New Exception collected with id: 2022-06-21 10:49:58.764389-127.0.0.1-dc8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uYFN'}
+2022-06-21 10:50:01,044 ERROR frappe New Exception collected with id: 2022-06-21 10:50:01.040931-127.0.0.1-022
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uYoE'}
+2022-06-21 10:50:01,330 ERROR frappe New Exception collected with id: 2022-06-21 10:50:01.321851-127.0.0.1-3b2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uYpC'}
+2022-06-21 10:50:01,750 ERROR frappe New Exception collected with id: 2022-06-21 10:50:01.745507-127.0.0.1-fbf
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uYyg'}
+2022-06-21 10:50:04,435 ERROR frappe New Exception collected with id: 2022-06-21 10:50:04.431590-127.0.0.1-93d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uZdq'}
+2022-06-21 10:50:04,764 ERROR frappe New Exception collected with id: 2022-06-21 10:50:04.750181-127.0.0.1-a27
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uZdq'}
+2022-06-21 10:50:07,325 ERROR frappe New Exception collected with id: 2022-06-21 10:50:07.322177-127.0.0.1-8c4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uaGQ'}
+2022-06-21 10:50:07,333 ERROR frappe New Exception collected with id: 2022-06-21 10:50:07.329729-127.0.0.1-fa7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uaHT'}
+2022-06-21 10:50:07,453 ERROR frappe New Exception collected with id: 2022-06-21 10:50:07.444514-127.0.0.1-6a6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uaMh'}
+2022-06-21 10:50:10,449 ERROR frappe New Exception collected with id: 2022-06-21 10:50:10.445902-127.0.0.1-226
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ub5a'}
+2022-06-21 10:50:10,760 ERROR frappe New Exception collected with id: 2022-06-21 10:50:10.756438-127.0.0.1-663
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ub5a'}
+2022-06-21 10:50:13,438 ERROR frappe New Exception collected with id: 2022-06-21 10:50:13.434523-127.0.0.1-8b9
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ubqS'}
+2022-06-21 10:50:16,739 ERROR frappe New Exception collected with id: 2022-06-21 10:50:16.736048-127.0.0.1-c84
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ucZJ'}
+2022-06-21 10:50:16,980 ERROR frappe New Exception collected with id: 2022-06-21 10:50:16.976991-127.0.0.1-c54
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ucZJ'}
+2022-06-21 10:50:18,747 ERROR frappe New Exception collected with id: 2022-06-21 10:50:18.743718-127.0.0.1-b11
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ud2Z'}
+2022-06-21 10:50:19,080 ERROR frappe New Exception collected with id: 2022-06-21 10:50:19.075831-127.0.0.1-beb
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ud7p'}
+2022-06-21 10:50:19,400 ERROR frappe New Exception collected with id: 2022-06-21 10:50:19.388395-127.0.0.1-bf7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65udCw'}
+2022-06-21 10:50:19,696 ERROR frappe New Exception collected with id: 2022-06-21 10:50:19.692930-127.0.0.1-d39
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65udIB'}
+2022-06-21 10:50:20,042 ERROR frappe New Exception collected with id: 2022-06-21 10:50:20.038841-127.0.0.1-d7b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65udND'}
+2022-06-21 10:50:22,448 ERROR frappe New Exception collected with id: 2022-06-21 10:50:22.445149-127.0.0.1-5d0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ue14'}
+2022-06-21 10:50:23,100 ERROR frappe New Exception collected with id: 2022-06-21 10:50:23.096406-127.0.0.1-cec
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ue6i'}
+2022-06-21 10:50:23,442 ERROR frappe New Exception collected with id: 2022-06-21 10:50:23.435998-127.0.0.1-ef7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ueBn'}
+2022-06-21 10:50:24,429 ERROR frappe New Exception collected with id: 2022-06-21 10:50:24.425327-127.0.0.1-b93
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ueWJ'}
+2022-06-21 10:50:24,999 ERROR frappe New Exception collected with id: 2022-06-21 10:50:24.995434-127.0.0.1-568
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uebc'}
+2022-06-21 10:50:25,072 ERROR frappe New Exception collected with id: 2022-06-21 10:50:25.068435-127.0.0.1-57b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uefU'}
+2022-06-21 10:50:25,760 ERROR frappe New Exception collected with id: 2022-06-21 10:50:25.756379-127.0.0.1-66b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uer6'}
+2022-06-21 10:50:25,775 ERROR frappe New Exception collected with id: 2022-06-21 10:50:25.771568-127.0.0.1-dba
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uerN'}
+2022-06-21 10:50:28,784 ERROR frappe New Exception collected with id: 2022-06-21 10:50:28.781142-127.0.0.1-ae5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ufVT'}
+2022-06-21 10:50:30,014 ERROR frappe New Exception collected with id: 2022-06-21 10:50:29.999573-127.0.0.1-f82
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ufpv'}
+2022-06-21 10:50:30,452 ERROR frappe New Exception collected with id: 2022-06-21 10:50:30.445614-127.0.0.1-bb9
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uf-4'}
+2022-06-21 10:50:31,751 ERROR frappe New Exception collected with id: 2022-06-21 10:50:31.745821-127.0.0.1-2a8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ugDh'}
+2022-06-21 10:50:34,759 ERROR frappe New Exception collected with id: 2022-06-21 10:50:34.756003-127.0.0.1-30f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uh1l'}
+2022-06-21 10:50:35,446 ERROR frappe New Exception collected with id: 2022-06-21 10:50:35.440566-127.0.0.1-d1b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uhCB'}
+2022-06-21 10:50:36,764 ERROR frappe New Exception collected with id: 2022-06-21 10:50:36.756358-127.0.0.1-9f6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uhRv'}
+2022-06-21 10:50:37,447 ERROR frappe New Exception collected with id: 2022-06-21 10:50:37.440506-127.0.0.1-363
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uhhR'}
+2022-06-21 10:50:38,095 ERROR frappe New Exception collected with id: 2022-06-21 10:50:38.092266-127.0.0.1-07d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uhmx'}
+2022-06-21 10:50:40,429 ERROR frappe New Exception collected with id: 2022-06-21 10:50:40.425780-127.0.0.1-b74
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uiQJ'}
+2022-06-21 10:50:40,746 ERROR frappe New Exception collected with id: 2022-06-21 10:50:40.741358-127.0.0.1-53b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uiQJ'}
+2022-06-21 10:50:41,788 ERROR frappe New Exception collected with id: 2022-06-21 10:50:41.783026-127.0.0.1-057
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uigZ'}
+2022-06-21 10:50:42,048 ERROR frappe New Exception collected with id: 2022-06-21 10:50:42.038855-127.0.0.1-c28
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uilp'}
+2022-06-21 10:50:43,451 ERROR frappe New Exception collected with id: 2022-06-21 10:50:43.443873-127.0.0.1-403
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uj9A'}
+2022-06-21 10:50:43,748 ERROR frappe New Exception collected with id: 2022-06-21 10:50:43.740026-127.0.0.1-dbf
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uj9r'}
+2022-06-21 10:50:43,758 ERROR frappe New Exception collected with id: 2022-06-21 10:50:43.753958-127.0.0.1-c43
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ujED'}
+2022-06-21 10:50:46,436 ERROR frappe New Exception collected with id: 2022-06-21 10:50:46.432984-127.0.0.1-8a4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uju4'}
+2022-06-21 10:50:47,099 ERROR frappe New Exception collected with id: 2022-06-21 10:50:47.091163-127.0.0.1-a4c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ujzP'}
+2022-06-21 10:50:48,432 ERROR frappe New Exception collected with id: 2022-06-21 10:50:48.429331-127.0.0.1-350
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ukNJ'}
+2022-06-21 10:50:48,756 ERROR frappe New Exception collected with id: 2022-06-21 10:50:48.752401-127.0.0.1-1fd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ukNg'}
+2022-06-21 10:50:49,430 ERROR frappe New Exception collected with id: 2022-06-21 10:50:49.427109-127.0.0.1-22b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ukcy'}
+2022-06-21 10:50:49,762 ERROR frappe New Exception collected with id: 2022-06-21 10:50:49.758944-127.0.0.1-ff3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ukcy'}
+2022-06-21 10:50:50,339 ERROR frappe New Exception collected with id: 2022-06-21 10:50:50.336120-127.0.0.1-8f8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ukiR'}
+2022-06-21 10:50:52,429 ERROR frappe New Exception collected with id: 2022-06-21 10:50:52.425676-127.0.0.1-7ce
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ulLp'}
+2022-06-21 10:50:53,332 ERROR frappe New Exception collected with id: 2022-06-21 10:50:53.329545-127.0.0.1-621
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ulWN'}
+2022-06-21 10:50:53,681 ERROR frappe New Exception collected with id: 2022-06-21 10:50:53.673430-127.0.0.1-fc4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ulbR'}
+2022-06-21 10:50:54,435 ERROR frappe New Exception collected with id: 2022-06-21 10:50:54.431559-127.0.0.1-b1f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ulr4'}
+2022-06-21 10:50:55,453 ERROR frappe New Exception collected with id: 2022-06-21 10:50:55.444767-127.0.0.1-a6b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65um4h'}
+2022-06-21 10:50:58,750 ERROR frappe New Exception collected with id: 2022-06-21 10:50:58.745286-127.0.0.1-e69
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65umpa'}
+2022-06-21 10:50:59,430 ERROR frappe New Exception collected with id: 2022-06-21 10:50:59.426967-127.0.0.1-9ea
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65un3B'}
+2022-06-21 10:50:59,755 ERROR frappe New Exception collected with id: 2022-06-21 10:50:59.751328-127.0.0.1-505
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65un3V'}
+2022-06-21 10:51:00,082 ERROR frappe New Exception collected with id: 2022-06-21 10:51:00.078514-127.0.0.1-13f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65un8X'}
+2022-06-21 10:51:00,332 ERROR frappe New Exception collected with id: 2022-06-21 10:51:00.323839-127.0.0.1-ec5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65unDh'}
+2022-06-21 10:51:01,741 ERROR frappe New Exception collected with id: 2022-06-21 10:51:01.737340-127.0.0.1-b75
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65unYR'}
+2022-06-21 10:51:05,008 ERROR frappe New Exception collected with id: 2022-06-21 10:51:05.004965-127.0.0.1-f15
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uoMp'}
+2022-06-21 10:51:05,444 ERROR frappe New Exception collected with id: 2022-06-21 10:51:05.440751-127.0.0.1-c47
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uoWx'}
+2022-06-21 10:51:07,743 ERROR frappe New Exception collected with id: 2022-06-21 10:51:07.737053-127.0.0.1-b52
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65up0B'}
+2022-06-21 10:51:07,755 ERROR frappe New Exception collected with id: 2022-06-21 10:51:07.751606-127.0.0.1-cf0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65up0U'}
+2022-06-21 10:51:11,734 ERROR frappe New Exception collected with id: 2022-06-21 10:51:11.730752-127.0.0.1-486
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65up-h'}
+2022-06-21 10:51:11,985 ERROR frappe New Exception collected with id: 2022-06-21 10:51:11.981761-127.0.0.1-c7e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65up-h'}
+2022-06-21 10:51:12,364 ERROR frappe New Exception collected with id: 2022-06-21 10:51:12.360444-127.0.0.1-31b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uqD3'}
+2022-06-21 10:51:12,663 ERROR frappe New Exception collected with id: 2022-06-21 10:51:12.659841-127.0.0.1-172
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uqDZ'}
+2022-06-21 10:51:13,433 ERROR frappe New Exception collected with id: 2022-06-21 10:51:13.429776-127.0.0.1-900
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uqTy'}
+2022-06-21 10:51:13,445 ERROR frappe New Exception collected with id: 2022-06-21 10:51:13.439870-127.0.0.1-a1e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uqTy'}
+2022-06-21 10:51:18,734 ERROR frappe New Exception collected with id: 2022-06-21 10:51:18.730790-127.0.0.1-c7a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uri4'}
+2022-06-21 10:51:18,988 ERROR frappe New Exception collected with id: 2022-06-21 10:51:18.982653-127.0.0.1-166
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uri4'}
+2022-06-21 10:51:19,310 ERROR frappe New Exception collected with id: 2022-06-21 10:51:19.306571-127.0.0.1-d48
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65urs0'}
+2022-06-21 10:51:19,428 ERROR frappe New Exception collected with id: 2022-06-21 10:51:19.424729-127.0.0.1-425
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65urxi'}
+2022-06-21 10:51:23,733 ERROR frappe New Exception collected with id: 2022-06-21 10:51:23.730363-127.0.0.1-2d6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uswB'}
+2022-06-21 10:51:24,004 ERROR frappe New Exception collected with id: 2022-06-21 10:51:23.995376-127.0.0.1-4e3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65us_E'}
+2022-06-21 10:51:24,749 ERROR frappe New Exception collected with id: 2022-06-21 10:51:24.744863-127.0.0.1-9e2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65utAO'}
+2022-06-21 10:51:24,760 ERROR frappe New Exception collected with id: 2022-06-21 10:51:24.755126-127.0.0.1-a95
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65utEw'}
+2022-06-21 10:51:25,764 ERROR frappe New Exception collected with id: 2022-06-21 10:51:25.751791-127.0.0.1-738
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65utPR'}
+2022-06-21 10:51:25,772 ERROR frappe New Exception collected with id: 2022-06-21 10:51:25.763440-127.0.0.1-c6a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65utPS'}
+2022-06-21 10:51:28,445 ERROR frappe New Exception collected with id: 2022-06-21 10:51:28.439109-127.0.0.1-c7d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uu8J'}
+2022-06-21 10:51:29,737 ERROR frappe New Exception collected with id: 2022-06-21 10:51:29.734227-127.0.0.1-8b5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uuNy'}
+2022-06-21 10:51:29,986 ERROR frappe New Exception collected with id: 2022-06-21 10:51:29.983293-127.0.0.1-76d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uuT3'}
+2022-06-21 10:51:31,087 ERROR frappe New Exception collected with id: 2022-06-21 10:51:31.082686-127.0.0.1-3db
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uuj0'}
+2022-06-21 10:51:31,433 ERROR frappe New Exception collected with id: 2022-06-21 10:51:31.429641-127.0.0.1-db5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uutF'}
+2022-06-21 10:51:31,751 ERROR frappe New Exception collected with id: 2022-06-21 10:51:31.747188-127.0.0.1-93c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uutF'}
+2022-06-21 10:51:32,077 ERROR frappe New Exception collected with id: 2022-06-21 10:51:32.073702-127.0.0.1-6e8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uuyX'}
+2022-06-21 10:51:32,397 ERROR frappe New Exception collected with id: 2022-06-21 10:51:32.393545-127.0.0.1-ccf
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uv5b'}
+2022-06-21 10:51:32,650 ERROR frappe New Exception collected with id: 2022-06-21 10:51:32.647099-127.0.0.1-7d6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uv6c'}
+2022-06-21 10:51:34,428 ERROR frappe New Exception collected with id: 2022-06-21 10:51:34.425040-127.0.0.1-090
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uvc3'}
+2022-06-21 10:51:36,055 ERROR frappe New Exception collected with id: 2022-06-21 10:51:36.051469-127.0.0.1-473
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uv-h'}
+2022-06-21 10:51:36,307 ERROR frappe New Exception collected with id: 2022-06-21 10:51:36.303419-127.0.0.1-b1e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uv_m'}
+2022-06-21 10:51:37,451 ERROR frappe New Exception collected with id: 2022-06-21 10:51:37.442703-127.0.0.1-757
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uwKx'}
+2022-06-21 10:51:38,433 ERROR frappe New Exception collected with id: 2022-06-21 10:51:38.429182-127.0.0.1-352
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uwaa'}
+2022-06-21 10:51:40,461 ERROR frappe New Exception collected with id: 2022-06-21 10:51:40.443850-127.0.0.1-7f5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65ux3q'}
+2022-06-21 10:51:41,742 ERROR frappe New Exception collected with id: 2022-06-21 10:51:41.738794-127.0.0.1-80d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uxJR'}
+2022-06-21 10:51:42,742 ERROR frappe New Exception collected with id: 2022-06-21 10:51:42.737290-127.0.0.1-c43
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uxZM'}
+2022-06-21 10:51:42,751 ERROR frappe New Exception collected with id: 2022-06-21 10:51:42.747656-127.0.0.1-594
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uxe6'}
+2022-06-21 10:51:42,769 ERROR frappe New Exception collected with id: 2022-06-21 10:51:42.765607-127.0.0.1-dc3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uxeO'}
+2022-06-21 10:51:46,429 ERROR frappe New Exception collected with id: 2022-06-21 10:51:46.425169-127.0.0.1-b7d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uyXa'}
+2022-06-21 10:51:46,770 ERROR frappe New Exception collected with id: 2022-06-21 10:51:46.762088-127.0.0.1-fd7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uyXu'}
+2022-06-21 10:51:48,979 ERROR frappe New Exception collected with id: 2022-06-21 10:51:48.975788-127.0.0.1-501
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uz0q'}
+2022-06-21 10:51:49,426 ERROR frappe New Exception collected with id: 2022-06-21 10:51:49.423246-127.0.0.1-058
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65uzGR'}
+2022-06-21 10:51:54,742 ERROR frappe New Exception collected with id: 2022-06-21 10:51:54.736808-127.0.0.1-447
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65u-Ua'}
+2022-06-21 10:51:54,760 ERROR frappe New Exception collected with id: 2022-06-21 10:51:54.757205-127.0.0.1-1fc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65u-Zn'}
+2022-06-21 10:51:58,452 ERROR frappe New Exception collected with id: 2022-06-21 10:51:58.444207-127.0.0.1-afc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65u_T4'}
+2022-06-21 10:51:59,731 ERROR frappe New Exception collected with id: 2022-06-21 10:51:59.728085-127.0.0.1-270
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65u_ii'}
+2022-06-21 10:52:00,746 ERROR frappe New Exception collected with id: 2022-06-21 10:52:00.742644-127.0.0.1-b40
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v01J'}
+2022-06-21 10:52:01,769 ERROR frappe New Exception collected with id: 2022-06-21 10:52:01.763461-127.0.0.1-db6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v0CD'}
+2022-06-21 10:52:02,745 ERROR frappe New Exception collected with id: 2022-06-21 10:52:02.741928-127.0.0.1-1bc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v0Rr'}
+2022-06-21 10:52:06,430 ERROR frappe New Exception collected with id: 2022-06-21 10:52:06.426337-127.0.0.1-6cc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v1Q4'}
+2022-06-21 10:52:06,744 ERROR frappe New Exception collected with id: 2022-06-21 10:52:06.739606-127.0.0.1-d42
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v1Q4'}
+2022-06-21 10:52:10,731 ERROR frappe New Exception collected with id: 2022-06-21 10:52:10.728140-127.0.0.1-a16
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v2OZ'}
+2022-06-21 10:52:11,444 ERROR frappe New Exception collected with id: 2022-06-21 10:52:11.439027-127.0.0.1-90f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v2eC'}
+2022-06-21 10:52:12,752 ERROR frappe New Exception collected with id: 2022-06-21 10:52:12.748727-127.0.0.1-b7b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v2tq'}
+2022-06-21 10:52:12,762 ERROR frappe New Exception collected with id: 2022-06-21 10:52:12.758177-127.0.0.1-ac8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v2uB'}
+2022-06-21 10:52:13,091 ERROR frappe New Exception collected with id: 2022-06-21 10:52:13.085919-127.0.0.1-1d7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v2zE'}
+2022-06-21 10:52:13,095 ERROR frappe New Exception collected with id: 2022-06-21 10:52:13.087500-127.0.0.1-2c0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v2zK'}
+2022-06-21 10:52:13,741 ERROR frappe New Exception collected with id: 2022-06-21 10:52:13.737789-127.0.0.1-1ff
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v3Bn'}
+2022-06-21 10:52:14,435 ERROR frappe New Exception collected with id: 2022-06-21 10:52:14.431049-127.0.0.1-6f3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v3N4'}
+2022-06-21 10:52:16,766 ERROR frappe New Exception collected with id: 2022-06-21 10:52:16.762615-127.0.0.1-8b7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v3sw'}
+2022-06-21 10:52:17,038 ERROR frappe New Exception collected with id: 2022-06-21 10:52:17.031803-127.0.0.1-5bc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v3xu'}
+2022-06-21 10:52:17,434 ERROR frappe New Exception collected with id: 2022-06-21 10:52:17.430795-127.0.0.1-8d0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v45x'}
+2022-06-21 10:52:17,729 ERROR frappe New Exception collected with id: 2022-06-21 10:52:17.726069-127.0.0.1-8c2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v46K'}
+2022-06-21 10:52:18,445 ERROR frappe New Exception collected with id: 2022-06-21 10:52:18.439736-127.0.0.1-0c3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v4LZ'}
+2022-06-21 10:52:18,771 ERROR frappe New Exception collected with id: 2022-06-21 10:52:18.767278-127.0.0.1-ea5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v4M9'}
+2022-06-21 10:52:19,434 ERROR frappe New Exception collected with id: 2022-06-21 10:52:19.431048-127.0.0.1-a44
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v4bB'}
+2022-06-21 10:52:22,456 ERROR frappe New Exception collected with id: 2022-06-21 10:52:22.448425-127.0.0.1-ffc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v5K5'}
+2022-06-21 10:52:23,751 ERROR frappe New Exception collected with id: 2022-06-21 10:52:23.745571-127.0.0.1-c1f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v5Zi'}
+2022-06-21 10:52:26,770 ERROR frappe New Exception collected with id: 2022-06-21 10:52:26.766892-127.0.0.1-c86
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v6JB'}
+2022-06-21 10:52:27,048 ERROR frappe New Exception collected with id: 2022-06-21 10:52:27.034686-127.0.0.1-e4a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v6OC'}
+2022-06-21 10:52:28,449 ERROR frappe New Exception collected with id: 2022-06-21 10:52:28.442115-127.0.0.1-457
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v6nq'}
+2022-06-21 10:52:29,108 ERROR frappe New Exception collected with id: 2022-06-21 10:52:29.104576-127.0.0.1-544
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v6xU'}
+2022-06-21 10:52:29,450 ERROR frappe New Exception collected with id: 2022-06-21 10:52:29.441696-127.0.0.1-ab2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v71S'}
+2022-06-21 10:52:30,444 ERROR frappe New Exception collected with id: 2022-06-21 10:52:30.439627-127.0.0.1-922
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v7H3'}
+2022-06-21 10:52:31,738 ERROR frappe New Exception collected with id: 2022-06-21 10:52:31.735186-127.0.0.1-fad
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v7Wi'}
+2022-06-21 10:52:32,356 ERROR frappe New Exception collected with id: 2022-06-21 10:52:32.352604-127.0.0.1-c29
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v7gw'}
+2022-06-21 10:52:32,443 ERROR frappe New Exception collected with id: 2022-06-21 10:52:32.440137-127.0.0.1-47a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v7mb'}
+2022-06-21 10:52:32,458 ERROR frappe New Exception collected with id: 2022-06-21 10:52:32.455288-127.0.0.1-caf
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v7ms'}
+2022-06-21 10:52:34,436 ERROR frappe New Exception collected with id: 2022-06-21 10:52:34.432541-127.0.0.1-721
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v8Fb'}
+2022-06-21 10:52:34,774 ERROR frappe New Exception collected with id: 2022-06-21 10:52:34.770412-127.0.0.1-c0c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v8F_'}
+2022-06-21 10:52:35,367 ERROR frappe New Exception collected with id: 2022-06-21 10:52:35.360645-127.0.0.1-81b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v8QU'}
+2022-06-21 10:52:35,426 ERROR frappe New Exception collected with id: 2022-06-21 10:52:35.423126-127.0.0.1-ae5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v8VC'}
+2022-06-21 10:52:37,767 ERROR frappe New Exception collected with id: 2022-06-21 10:52:37.760472-127.0.0.1-8f9
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v8-R'}
+2022-06-21 10:52:37,776 ERROR frappe New Exception collected with id: 2022-06-21 10:52:37.771014-127.0.0.1-b96
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v8_2'}
+2022-06-21 10:52:38,101 ERROR frappe New Exception collected with id: 2022-06-21 10:52:38.098194-127.0.0.1-e1c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v94A'}
+2022-06-21 10:52:41,435 ERROR frappe New Exception collected with id: 2022-06-21 10:52:41.431581-127.0.0.1-840
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v9yy'}
+2022-06-21 10:52:42,986 ERROR frappe New Exception collected with id: 2022-06-21 10:52:42.982956-127.0.0.1-76c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vAHh'}
+2022-06-21 10:52:43,431 ERROR frappe New Exception collected with id: 2022-06-21 10:52:43.427872-127.0.0.1-acc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vASB'}
+2022-06-21 10:52:43,728 ERROR frappe New Exception collected with id: 2022-06-21 10:52:43.724773-127.0.0.1-c8a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vASC'}
+2022-06-21 10:52:44,433 ERROR frappe New Exception collected with id: 2022-06-21 10:52:44.429953-127.0.0.1-ce0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vAhq'}
+2022-06-21 10:52:45,029 ERROR frappe New Exception collected with id: 2022-06-21 10:52:45.022998-127.0.0.1-cf0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vAnj'}
+2022-06-21 10:52:46,426 ERROR frappe New Exception collected with id: 2022-06-21 10:52:46.423070-127.0.0.1-48b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vBB4'}
+2022-06-21 10:52:49,737 ERROR frappe New Exception collected with id: 2022-06-21 10:52:49.733175-127.0.0.1-52a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vBvy'}
+2022-06-21 10:52:50,446 ERROR frappe New Exception collected with id: 2022-06-21 10:52:50.439158-127.0.0.1-8ee
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vC9a'}
+2022-06-21 10:52:53,447 ERROR frappe New Exception collected with id: 2022-06-21 10:52:53.438631-127.0.0.1-a5c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vCuS'}
+2022-06-21 10:52:53,780 ERROR frappe New Exception collected with id: 2022-06-21 10:52:53.776574-127.0.0.1-b39
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vCv3'}
+2022-06-21 10:52:56,445 ERROR frappe New Exception collected with id: 2022-06-21 10:52:56.441982-127.0.0.1-34e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vDdK'}
+2022-06-21 10:52:58,749 ERROR frappe New Exception collected with id: 2022-06-21 10:52:58.742204-127.0.0.1-321
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vE6a'}
+2022-06-21 10:52:59,452 ERROR frappe New Exception collected with id: 2022-06-21 10:52:59.442030-127.0.0.1-269
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vEMC'}
+2022-06-21 10:53:01,084 ERROR frappe New Exception collected with id: 2022-06-21 10:53:01.074988-127.0.0.1-3db
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vEkl'}
+2022-06-21 10:53:01,299 ERROR frappe New Exception collected with id: 2022-06-21 10:53:01.295671-127.0.0.1-9a3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vEmQ'}
+2022-06-21 10:53:01,779 ERROR frappe New Exception collected with id: 2022-06-21 10:53:01.774943-127.0.0.1-336
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vEr-'}
+2022-06-21 10:53:02,107 ERROR frappe New Exception collected with id: 2022-06-21 10:53:02.104042-127.0.0.1-16c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vEx2'}
+2022-06-21 10:53:02,985 ERROR frappe New Exception collected with id: 2022-06-21 10:53:02.981815-127.0.0.1-02f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vFA6'}
+2022-06-21 10:53:05,430 ERROR frappe New Exception collected with id: 2022-06-21 10:53:05.426949-127.0.0.1-5a7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vFpy'}
+2022-06-21 10:53:05,775 ERROR frappe New Exception collected with id: 2022-06-21 10:53:05.766440-127.0.0.1-7c6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vFqH'}
+2022-06-21 10:53:07,004 ERROR frappe New Exception collected with id: 2022-06-21 10:53:07.000845-127.0.0.1-341
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vG9E'}
+2022-06-21 10:53:07,452 ERROR frappe New Exception collected with id: 2022-06-21 10:53:07.443724-127.0.0.1-843
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vGJB'}
+2022-06-21 10:53:07,764 ERROR frappe New Exception collected with id: 2022-06-21 10:53:07.760448-127.0.0.1-a6a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vGOU'}
+2022-06-21 10:53:08,084 ERROR frappe New Exception collected with id: 2022-06-21 10:53:08.080644-127.0.0.1-721
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vGOw'}
+2022-06-21 10:53:08,101 ERROR frappe New Exception collected with id: 2022-06-21 10:53:08.098342-127.0.0.1-2e4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vGTl'}
+2022-06-21 10:53:08,736 ERROR frappe New Exception collected with id: 2022-06-21 10:53:08.732003-127.0.0.1-79c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vGYp'}
+2022-06-21 10:53:12,984 ERROR frappe New Exception collected with id: 2022-06-21 10:53:12.981319-127.0.0.1-8cd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vHcS'}
+2022-06-21 10:53:13,426 ERROR frappe New Exception collected with id: 2022-06-21 10:53:13.422681-127.0.0.1-c14
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vHmy'}
+2022-06-21 10:53:16,730 ERROR frappe New Exception collected with id: 2022-06-21 10:53:16.726260-127.0.0.1-d1c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vIVq'}
+2022-06-21 10:53:17,426 ERROR frappe New Exception collected with id: 2022-06-21 10:53:17.422422-127.0.0.1-37a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vIlR'}
+2022-06-21 10:53:18,760 ERROR frappe New Exception collected with id: 2022-06-21 10:53:18.754310-127.0.0.1-054
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vI_L'}
+2022-06-21 10:53:18,995 ERROR frappe New Exception collected with id: 2022-06-21 10:53:18.992130-127.0.0.1-86b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vJ4Z'}
+2022-06-21 10:53:19,778 ERROR frappe New Exception collected with id: 2022-06-21 10:53:19.757442-127.0.0.1-88b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vJEi'}
+2022-06-21 10:53:23,747 ERROR frappe New Exception collected with id: 2022-06-21 10:53:23.740472-127.0.0.1-861
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vKDB'}
+2022-06-21 10:53:25,736 ERROR frappe New Exception collected with id: 2022-06-21 10:53:25.732796-127.0.0.1-d81
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vKiS'}
+2022-06-21 10:53:26,321 ERROR frappe New Exception collected with id: 2022-06-21 10:53:26.315672-127.0.0.1-42d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vKsV'}
+2022-06-21 10:53:26,645 ERROR frappe New Exception collected with id: 2022-06-21 10:53:26.641658-127.0.0.1-9f9
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vKy3'}
+2022-06-21 10:53:29,739 ERROR frappe New Exception collected with id: 2022-06-21 10:53:29.736577-127.0.0.1-80c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vLgy'}
+2022-06-21 10:53:30,058 ERROR frappe New Exception collected with id: 2022-06-21 10:53:30.055077-127.0.0.1-701
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vLq4'}
+2022-06-21 10:53:30,396 ERROR frappe New Exception collected with id: 2022-06-21 10:53:30.391188-127.0.0.1-1ee
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vLv9'}
+2022-06-21 10:53:30,738 ERROR frappe New Exception collected with id: 2022-06-21 10:53:30.721384-127.0.0.1-a88
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vLwZ'}
+2022-06-21 10:53:31,102 ERROR frappe New Exception collected with id: 2022-06-21 10:53:31.094118-127.0.0.1-2db
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vM3F'}
+2022-06-21 10:53:31,306 ERROR frappe New Exception collected with id: 2022-06-21 10:53:31.291937-127.0.0.1-c86
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vM5Q'}
+2022-06-21 10:53:34,446 ERROR frappe New Exception collected with id: 2022-06-21 10:53:34.441335-127.0.0.1-5ee
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vMv4'}
+2022-06-21 10:53:34,766 ERROR frappe New Exception collected with id: 2022-06-21 10:53:34.763304-127.0.0.1-e09
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vMvf'}
+2022-06-21 10:53:36,768 ERROR frappe New Exception collected with id: 2022-06-21 10:53:36.764662-127.0.0.1-b9b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vNOy'}
+2022-06-21 10:53:37,431 ERROR frappe New Exception collected with id: 2022-06-21 10:53:37.427343-127.0.0.1-e27
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vNdx'}
+2022-06-21 10:53:40,433 ERROR frappe New Exception collected with id: 2022-06-21 10:53:40.430312-127.0.0.1-fa6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vOMp'}
+2022-06-21 10:53:40,752 ERROR frappe New Exception collected with id: 2022-06-21 10:53:40.748553-127.0.0.1-743
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vONC'}
+2022-06-21 10:53:41,325 ERROR frappe New Exception collected with id: 2022-06-21 10:53:41.321303-127.0.0.1-092
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vOXB'}
+2022-06-21 10:53:41,390 ERROR frappe New Exception collected with id: 2022-06-21 10:53:41.387168-127.0.0.1-eac
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vObA'}
+2022-06-21 10:53:43,997 ERROR frappe New Exception collected with id: 2022-06-21 10:53:43.989076-127.0.0.1-419
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vP5h'}
+2022-06-21 10:53:44,092 ERROR frappe New Exception collected with id: 2022-06-21 10:53:44.083905-127.0.0.1-eeb
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vPB5'}
+2022-06-21 10:53:44,412 ERROR frappe New Exception collected with id: 2022-06-21 10:53:44.408937-127.0.0.1-5fe
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vPGR'}
+2022-06-21 10:53:44,657 ERROR frappe New Exception collected with id: 2022-06-21 10:53:44.652593-127.0.0.1-cf0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vPLI'}
+2022-06-21 10:53:44,726 ERROR frappe New Exception collected with id: 2022-06-21 10:53:44.723156-127.0.0.1-f40
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vPPA'}
+2022-06-21 10:53:44,983 ERROR frappe New Exception collected with id: 2022-06-21 10:53:44.979815-127.0.0.1-e53
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vPU2'}
+2022-06-21 10:53:46,425 ERROR frappe New Exception collected with id: 2022-06-21 10:53:46.422036-127.0.0.1-6e6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vPqZ'}
+2022-06-21 10:53:48,432 ERROR frappe New Exception collected with id: 2022-06-21 10:53:48.427724-127.0.0.1-c38
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vQJp'}
+2022-06-21 10:53:50,736 ERROR frappe New Exception collected with id: 2022-06-21 10:53:50.732757-127.0.0.1-03b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vQp4'}
+2022-06-21 10:53:51,050 ERROR frappe New Exception collected with id: 2022-06-21 10:53:51.046122-127.0.0.1-4ff
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vQuD'}
+2022-06-21 10:53:51,066 ERROR frappe New Exception collected with id: 2022-06-21 10:53:51.062937-127.0.0.1-017
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vQz6'}
+2022-06-21 10:53:54,727 ERROR frappe New Exception collected with id: 2022-06-21 10:53:54.723469-127.0.0.1-36b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vRna'}
+2022-06-21 10:53:56,429 ERROR frappe New Exception collected with id: 2022-06-21 10:53:56.425631-127.0.0.1-ed2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vSGp'}
+2022-06-21 10:53:56,765 ERROR frappe New Exception collected with id: 2022-06-21 10:53:56.761262-127.0.0.1-285
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vSHF'}
+2022-06-21 10:53:57,085 ERROR frappe New Exception collected with id: 2022-06-21 10:53:57.082344-127.0.0.1-228
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vSMC'}
+2022-06-21 10:53:57,096 ERROR frappe New Exception collected with id: 2022-06-21 10:53:57.091721-127.0.0.1-9d7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vSMP'}
+2022-06-21 10:53:58,745 ERROR frappe New Exception collected with id: 2022-06-21 10:53:58.739629-127.0.0.1-473
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vSm3'}
+2022-06-21 10:54:00,425 ERROR frappe New Exception collected with id: 2022-06-21 10:54:00.421923-127.0.0.1-6f8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vTFJ'}
+2022-06-21 10:54:00,726 ERROR frappe New Exception collected with id: 2022-06-21 10:54:00.722686-127.0.0.1-135
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vTFK'}
+2022-06-21 10:54:02,762 ERROR frappe New Exception collected with id: 2022-06-21 10:54:02.759217-127.0.0.1-ab3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vTk-'}
+2022-06-21 10:54:03,091 ERROR frappe New Exception collected with id: 2022-06-21 10:54:03.088276-127.0.0.1-1a2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vTq6'}
+2022-06-21 10:54:04,047 ERROR frappe New Exception collected with id: 2022-06-21 10:54:04.031292-127.0.0.1-a22
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vU3q'}
+2022-06-21 10:54:04,090 ERROR frappe New Exception collected with id: 2022-06-21 10:54:04.087160-127.0.0.1-4d5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vU8D'}
+2022-06-21 10:54:04,994 ERROR frappe New Exception collected with id: 2022-06-21 10:54:04.990758-127.0.0.1-41c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vUJT'}
+2022-06-21 10:54:05,117 ERROR frappe New Exception collected with id: 2022-06-21 10:54:05.103134-127.0.0.1-e0b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vUMz'}
+2022-06-21 10:54:06,763 ERROR frappe New Exception collected with id: 2022-06-21 10:54:06.759991-127.0.0.1-ac8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vUjb'}
+2022-06-21 10:54:10,001 ERROR frappe New Exception collected with id: 2022-06-21 10:54:09.997868-127.0.0.1-5f4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vVXL'}
+2022-06-21 10:54:10,081 ERROR frappe New Exception collected with id: 2022-06-21 10:54:10.078036-127.0.0.1-8f9
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vVbC'}
+2022-06-21 10:54:10,657 ERROR frappe New Exception collected with id: 2022-06-21 10:54:10.651944-127.0.0.1-bc5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vVhX'}
+2022-06-21 10:54:10,723 ERROR frappe New Exception collected with id: 2022-06-21 10:54:10.719868-127.0.0.1-8dd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vVhY'}
+2022-06-21 10:54:14,434 ERROR frappe New Exception collected with id: 2022-06-21 10:54:14.430504-127.0.0.1-767
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vWg3'}
+2022-06-21 10:54:14,736 ERROR frappe New Exception collected with id: 2022-06-21 10:54:14.733288-127.0.0.1-1cb
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vWg4'}
+2022-06-21 10:54:16,739 ERROR frappe New Exception collected with id: 2022-06-21 10:54:16.732725-127.0.0.1-a7e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vX9K'}
+2022-06-21 10:54:16,745 ERROR frappe New Exception collected with id: 2022-06-21 10:54:16.738486-127.0.0.1-940
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vX9L'}
+2022-06-21 10:54:18,438 ERROR frappe New Exception collected with id: 2022-06-21 10:54:18.430099-127.0.0.1-a44
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vXeZ'}
+2022-06-21 10:54:18,767 ERROR frappe New Exception collected with id: 2022-06-21 10:54:18.762364-127.0.0.1-dea
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vXjx'}
+2022-06-21 10:54:19,108 ERROR frappe New Exception collected with id: 2022-06-21 10:54:19.104902-127.0.0.1-668
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vXkF'}
+2022-06-21 10:54:19,355 ERROR frappe New Exception collected with id: 2022-06-21 10:54:19.349690-127.0.0.1-4f7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vXpX'}
+2022-06-21 10:54:22,434 ERROR frappe New Exception collected with id: 2022-06-21 10:54:22.431272-127.0.0.1-781
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vYd5'}
+2022-06-21 10:54:22,445 ERROR frappe New Exception collected with id: 2022-06-21 10:54:22.440156-127.0.0.1-21d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vYd4'}
+2022-06-21 10:54:24,734 ERROR frappe New Exception collected with id: 2022-06-21 10:54:24.730719-127.0.0.1-77b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vZ6K'}
+2022-06-21 10:54:25,003 ERROR frappe New Exception collected with id: 2022-06-21 10:54:24.995850-127.0.0.1-b12
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vZBQ'}
+2022-06-21 10:54:25,052 ERROR frappe New Exception collected with id: 2022-06-21 10:54:25.048847-127.0.0.1-f4e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vZBX'}
+2022-06-21 10:54:26,453 ERROR frappe New Exception collected with id: 2022-06-21 10:54:26.449146-127.0.0.1-5f3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vZb_'}
+2022-06-21 10:54:26,774 ERROR frappe New Exception collected with id: 2022-06-21 10:54:26.770866-127.0.0.1-836
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vZc9'}
+2022-06-21 10:54:28,731 ERROR frappe New Exception collected with id: 2022-06-21 10:54:28.728211-127.0.0.1-968
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65va4q'}
+2022-06-21 10:54:28,983 ERROR frappe New Exception collected with id: 2022-06-21 10:54:28.979500-127.0.0.1-602
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65va9v'}
+2022-06-21 10:54:30,773 ERROR frappe New Exception collected with id: 2022-06-21 10:54:30.767977-127.0.0.1-1cf
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vaal'}
+2022-06-21 10:54:31,100 ERROR frappe New Exception collected with id: 2022-06-21 10:54:31.097038-127.0.0.1-b5d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vafn'}
+2022-06-21 10:54:33,085 ERROR frappe New Exception collected with id: 2022-06-21 10:54:33.082075-127.0.0.1-82b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vb8w'}
+2022-06-21 10:54:33,338 ERROR frappe New Exception collected with id: 2022-06-21 10:54:33.334379-127.0.0.1-378
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vbDw'}
+2022-06-21 10:54:34,446 ERROR frappe New Exception collected with id: 2022-06-21 10:54:34.439216-127.0.0.1-158
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vbYZ'}
+2022-06-21 10:54:34,742 ERROR frappe New Exception collected with id: 2022-06-21 10:54:34.738934-127.0.0.1-2ff
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vbYb'}
+2022-06-21 10:54:36,796 ERROR frappe New Exception collected with id: 2022-06-21 10:54:36.786713-127.0.0.1-3cd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vc2f'}
+2022-06-21 10:54:37,072 ERROR frappe New Exception collected with id: 2022-06-21 10:54:37.068972-127.0.0.1-c41
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vc7s'}
+2022-06-21 10:54:39,428 ERROR frappe New Exception collected with id: 2022-06-21 10:54:39.424314-127.0.0.1-94d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vcmi'}
+2022-06-21 10:54:39,752 ERROR frappe New Exception collected with id: 2022-06-21 10:54:39.748826-127.0.0.1-2ae
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vcn1'}
+2022-06-21 10:54:40,428 ERROR frappe New Exception collected with id: 2022-06-21 10:54:40.424178-127.0.0.1-6d7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vd0J'}
+2022-06-21 10:54:42,735 ERROR frappe New Exception collected with id: 2022-06-21 10:54:42.730465-127.0.0.1-9c6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vdVa'}
+2022-06-21 10:54:42,740 ERROR frappe New Exception collected with id: 2022-06-21 10:54:42.736929-127.0.0.1-f54
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vdVZ'}
+2022-06-21 10:54:44,427 ERROR frappe New Exception collected with id: 2022-06-21 10:54:44.422293-127.0.0.1-ee6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vd-q'}
+2022-06-21 10:54:45,427 ERROR frappe New Exception collected with id: 2022-06-21 10:54:45.422652-127.0.0.1-789
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65veER'}
+2022-06-21 10:54:46,747 ERROR frappe New Exception collected with id: 2022-06-21 10:54:46.742399-127.0.0.1-7c2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65veU4'}
+2022-06-21 10:54:46,977 ERROR frappe New Exception collected with id: 2022-06-21 10:54:46.973400-127.0.0.1-f1b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65veU4'}
+2022-06-21 10:54:47,068 ERROR frappe New Exception collected with id: 2022-06-21 10:54:47.064372-127.0.0.1-ff8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65veZP'}
+2022-06-21 10:54:50,447 ERROR frappe New Exception collected with id: 2022-06-21 10:54:50.441609-127.0.0.1-243
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vfSa'}
+2022-06-21 10:54:51,439 ERROR frappe New Exception collected with id: 2022-06-21 10:54:51.436430-127.0.0.1-51a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vfiC'}
+2022-06-21 10:54:51,781 ERROR frappe New Exception collected with id: 2022-06-21 10:54:51.771893-127.0.0.1-95f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vfii'}
+2022-06-21 10:54:52,101 ERROR frappe New Exception collected with id: 2022-06-21 10:54:52.098418-127.0.0.1-152
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vfrg'}
+2022-06-21 10:54:52,436 ERROR frappe New Exception collected with id: 2022-06-21 10:54:52.433127-127.0.0.1-9fc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vfxp'}
+2022-06-21 10:54:52,732 ERROR frappe New Exception collected with id: 2022-06-21 10:54:52.728132-127.0.0.1-934
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vfxq'}
+2022-06-21 10:54:54,756 ERROR frappe New Exception collected with id: 2022-06-21 10:54:54.751341-127.0.0.1-a6d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vgR4'}
+2022-06-21 10:54:54,766 ERROR frappe New Exception collected with id: 2022-06-21 10:54:54.761656-127.0.0.1-062
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vgRW'}
+2022-06-21 10:54:55,108 ERROR frappe New Exception collected with id: 2022-06-21 10:54:55.105612-127.0.0.1-2a8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vgWh'}
+2022-06-21 10:54:55,110 ERROR frappe New Exception collected with id: 2022-06-21 10:54:55.098335-127.0.0.1-0ea
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vgWa'}
+2022-06-21 10:54:56,425 ERROR frappe New Exception collected with id: 2022-06-21 10:54:56.421162-127.0.0.1-5da
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vgwK'}
+2022-06-21 10:54:57,979 ERROR frappe New Exception collected with id: 2022-06-21 10:54:57.975959-127.0.0.1-69e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vhF6'}
+2022-06-21 10:54:58,765 ERROR frappe New Exception collected with id: 2022-06-21 10:54:58.746467-127.0.0.1-4f3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vhPa'}
+2022-06-21 10:54:59,346 ERROR frappe New Exception collected with id: 2022-06-21 10:54:59.343115-127.0.0.1-129
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vhaf'}
+2022-06-21 10:54:59,435 ERROR frappe New Exception collected with id: 2022-06-21 10:54:59.432043-127.0.0.1-574
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vheG'}
+2022-06-21 10:55:00,423 ERROR frappe New Exception collected with id: 2022-06-21 10:55:00.419576-127.0.0.1-739
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vhup'}
+2022-06-21 10:55:00,745 ERROR frappe New Exception collected with id: 2022-06-21 10:55:00.741673-127.0.0.1-ff8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vhv5'}
+2022-06-21 10:55:01,431 ERROR frappe New Exception collected with id: 2022-06-21 10:55:01.428258-127.0.0.1-243
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vi8R'}
+2022-06-21 10:55:02,077 ERROR frappe New Exception collected with id: 2022-06-21 10:55:02.073421-127.0.0.1-a15
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65viHp'}
+2022-06-21 10:55:02,450 ERROR frappe New Exception collected with id: 2022-06-21 10:55:02.440892-127.0.0.1-0a0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65viO4'}
+2022-06-21 10:55:04,773 ERROR frappe New Exception collected with id: 2022-06-21 10:55:04.764972-127.0.0.1-964
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vitk'}
+2022-06-21 10:55:06,753 ERROR frappe New Exception collected with id: 2022-06-21 10:55:06.745066-127.0.0.1-9e3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vjMa'}
+2022-06-21 10:55:10,727 ERROR frappe New Exception collected with id: 2022-06-21 10:55:10.723596-127.0.0.1-65a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vkL4'}
+2022-06-21 10:55:11,446 ERROR frappe New Exception collected with id: 2022-06-21 10:55:11.438052-127.0.0.1-e61
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vkai'}
+2022-06-21 10:55:13,053 ERROR frappe New Exception collected with id: 2022-06-21 10:55:13.050468-127.0.0.1-40d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vkzL'}
+2022-06-21 10:55:13,431 ERROR frappe New Exception collected with id: 2022-06-21 10:55:13.427726-127.0.0.1-be0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vl3x'}
+2022-06-21 10:55:15,424 ERROR frappe New Exception collected with id: 2022-06-21 10:55:15.420064-127.0.0.1-534
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vlZB'}
+2022-06-21 10:55:16,731 ERROR frappe New Exception collected with id: 2022-06-21 10:55:16.727622-127.0.0.1-837
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vlop'}
+2022-06-21 10:55:17,301 ERROR frappe New Exception collected with id: 2022-06-21 10:55:17.297756-127.0.0.1-8e2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vlyv'}
+2022-06-21 10:55:17,425 ERROR frappe New Exception collected with id: 2022-06-21 10:55:17.421334-127.0.0.1-b7e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vm2S'}
+2022-06-21 10:55:19,430 ERROR frappe New Exception collected with id: 2022-06-21 10:55:19.427220-127.0.0.1-1ba
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vmXi'}
+2022-06-21 10:55:20,734 ERROR frappe New Exception collected with id: 2022-06-21 10:55:20.731282-127.0.0.1-e2c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vmnJ'}
+2022-06-21 10:55:22,032 ERROR frappe New Exception collected with id: 2022-06-21 10:55:22.026228-127.0.0.1-ff4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vn6l'}
+2022-06-21 10:55:22,096 ERROR frappe New Exception collected with id: 2022-06-21 10:55:22.093093-127.0.0.1-031
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vnAk'}
+2022-06-21 10:55:22,723 ERROR frappe New Exception collected with id: 2022-06-21 10:55:22.719661-127.0.0.1-9e5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vnGj'}
+2022-06-21 10:55:23,459 ERROR frappe New Exception collected with id: 2022-06-21 10:55:23.455155-127.0.0.1-f6d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vnWl'}
+2022-06-21 10:55:23,795 ERROR frappe New Exception collected with id: 2022-06-21 10:55:23.791737-127.0.0.1-1ce
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vnX0'}
+2022-06-21 10:55:26,442 ERROR frappe New Exception collected with id: 2022-06-21 10:55:26.436815-127.0.0.1-5d8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65voF3'}
+2022-06-21 10:55:26,760 ERROR frappe New Exception collected with id: 2022-06-21 10:55:26.756847-127.0.0.1-8d7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65voFd'}
+2022-06-21 10:55:28,432 ERROR frappe New Exception collected with id: 2022-06-21 10:55:28.428975-127.0.0.1-b6f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vokJ'}
+2022-06-21 10:55:28,736 ERROR frappe New Exception collected with id: 2022-06-21 10:55:28.731921-127.0.0.1-3ef
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vokK'}
+2022-06-21 10:55:28,769 ERROR frappe New Exception collected with id: 2022-06-21 10:55:28.765553-127.0.0.1-82f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vopl'}
+2022-06-21 10:55:31,747 ERROR frappe New Exception collected with id: 2022-06-21 10:55:31.742047-127.0.0.1-6e8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vpTC'}
+2022-06-21 10:55:32,446 ERROR frappe New Exception collected with id: 2022-06-21 10:55:32.441395-127.0.0.1-add
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vpiq'}
+2022-06-21 10:55:34,432 ERROR frappe New Exception collected with id: 2022-06-21 10:55:34.428676-127.0.0.1-61f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vqC4'}
+2022-06-21 10:55:35,102 ERROR frappe New Exception collected with id: 2022-06-21 10:55:35.097959-127.0.0.1-73b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vqHf'}
+2022-06-21 10:55:36,754 ERROR frappe New Exception collected with id: 2022-06-21 10:55:36.747853-127.0.0.1-2de
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vqhY'}
+2022-06-21 10:55:37,999 ERROR frappe New Exception collected with id: 2022-06-21 10:55:37.995939-127.0.0.1-42e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vr0P'}
+2022-06-21 10:55:38,074 ERROR frappe New Exception collected with id: 2022-06-21 10:55:38.070939-127.0.0.1-c84
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vr4D'}
+2022-06-21 10:55:38,764 ERROR frappe New Exception collected with id: 2022-06-21 10:55:38.756082-127.0.0.1-5bc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vrAr'}
+2022-06-21 10:55:40,423 ERROR frappe New Exception collected with id: 2022-06-21 10:55:40.419816-127.0.0.1-8b1
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vrfp'}
+2022-06-21 10:55:41,380 ERROR frappe New Exception collected with id: 2022-06-21 10:55:41.376601-127.0.0.1-fab
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vru4'}
+2022-06-21 10:55:41,638 ERROR frappe New Exception collected with id: 2022-06-21 10:55:41.634871-127.0.0.1-8af
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vrv2'}
+2022-06-21 10:55:41,943 ERROR frappe New Exception collected with id: 2022-06-21 10:55:41.939997-127.0.0.1-0e5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vr-R'}
+2022-06-21 10:55:41,960 ERROR frappe New Exception collected with id: 2022-06-21 10:55:41.956722-127.0.0.1-264
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vs1s'}
+2022-06-21 10:55:43,746 ERROR frappe New Exception collected with id: 2022-06-21 10:55:43.737507-127.0.0.1-c35
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vsOi'}
+2022-06-21 10:55:44,436 ERROR frappe New Exception collected with id: 2022-06-21 10:55:44.429448-127.0.0.1-6ac
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vseJ'}
+2022-06-21 10:55:46,753 ERROR frappe New Exception collected with id: 2022-06-21 10:55:46.744516-127.0.0.1-768
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vt7Z'}
+2022-06-21 10:55:47,753 ERROR frappe New Exception collected with id: 2022-06-21 10:55:47.749644-127.0.0.1-a9e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vtSJ'}
+2022-06-21 10:55:48,073 ERROR frappe New Exception collected with id: 2022-06-21 10:55:48.069205-127.0.0.1-b0d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vtSd'}
+2022-06-21 10:55:49,012 ERROR frappe New Exception collected with id: 2022-06-21 10:55:49.008070-127.0.0.1-f51
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vtiB'}
+2022-06-21 10:55:49,069 ERROR frappe New Exception collected with id: 2022-06-21 10:55:49.065544-127.0.0.1-4e6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vtmI'}
+2022-06-21 10:55:49,749 ERROR frappe New Exception collected with id: 2022-06-21 10:55:49.745908-127.0.0.1-5bc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vtsj'}
+2022-06-21 10:55:49,993 ERROR frappe New Exception collected with id: 2022-06-21 10:55:49.989607-127.0.0.1-606
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vtxp'}
+2022-06-21 10:55:52,983 ERROR frappe New Exception collected with id: 2022-06-21 10:55:52.979533-127.0.0.1-f9a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vugO'}
+2022-06-21 10:55:53,049 ERROR frappe New Exception collected with id: 2022-06-21 10:55:53.045709-127.0.0.1-0fa
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vukL'}
+2022-06-21 10:55:55,438 ERROR frappe New Exception collected with id: 2022-06-21 10:55:55.431342-127.0.0.1-ae0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vvKC'}
+2022-06-21 10:55:56,748 ERROR frappe New Exception collected with id: 2022-06-21 10:55:56.742957-127.0.0.1-c43
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vvZq'}
+2022-06-21 10:55:57,329 ERROR frappe New Exception collected with id: 2022-06-21 10:55:57.319831-127.0.0.1-bb3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vvkB'}
+2022-06-21 10:55:57,672 ERROR frappe New Exception collected with id: 2022-06-21 10:55:57.666460-127.0.0.1-14b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vvpB'}
+2022-06-21 10:55:58,431 ERROR frappe New Exception collected with id: 2022-06-21 10:55:58.428009-127.0.0.1-aee
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vw35'}
+2022-06-21 10:55:58,765 ERROR frappe New Exception collected with id: 2022-06-21 10:55:58.758335-127.0.0.1-ffa
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vw3U'}
+2022-06-21 10:55:59,432 ERROR frappe New Exception collected with id: 2022-06-21 10:55:59.428376-127.0.0.1-1a6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vwIi'}
+2022-06-21 10:56:00,424 ERROR frappe New Exception collected with id: 2022-06-21 10:56:00.420336-127.0.0.1-7b3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vwYJ'}
+2022-06-21 10:56:01,749 ERROR frappe New Exception collected with id: 2022-06-21 10:56:01.742919-127.0.0.1-33c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vwny'}
+2022-06-21 10:56:03,432 ERROR frappe New Exception collected with id: 2022-06-21 10:56:03.428554-127.0.0.1-544
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vxHC'}
+2022-06-21 10:56:04,750 ERROR frappe New Exception collected with id: 2022-06-21 10:56:04.744627-127.0.0.1-a8c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vxWq'}
+2022-06-21 10:56:06,364 ERROR frappe New Exception collected with id: 2022-06-21 10:56:06.351352-127.0.0.1-311
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vxxC'}
+2022-06-21 10:56:06,416 ERROR frappe New Exception collected with id: 2022-06-21 10:56:06.412561-127.0.0.1-450
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vx_V'}
+2022-06-21 10:56:06,689 ERROR frappe New Exception collected with id: 2022-06-21 10:56:06.686334-127.0.0.1-972
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vy02'}
+2022-06-21 10:56:06,723 ERROR frappe New Exception collected with id: 2022-06-21 10:56:06.719849-127.0.0.1-7d2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vy4V'}
+2022-06-21 10:56:09,730 ERROR frappe New Exception collected with id: 2022-06-21 10:56:09.727272-127.0.0.1-55c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vyky'}
+2022-06-21 10:56:10,427 ERROR frappe New Exception collected with id: 2022-06-21 10:56:10.423723-127.0.0.1-584
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vy-Z'}
+2022-06-21 10:56:12,752 ERROR frappe New Exception collected with id: 2022-06-21 10:56:12.746770-127.0.0.1-c0c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vzTp'}
+2022-06-21 10:56:12,765 ERROR frappe New Exception collected with id: 2022-06-21 10:56:12.761350-127.0.0.1-0dd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vzUB'}
+2022-06-21 10:56:13,100 ERROR frappe New Exception collected with id: 2022-06-21 10:56:13.094377-127.0.0.1-0bf
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65vzZQ'}
+2022-06-21 10:56:15,431 ERROR frappe New Exception collected with id: 2022-06-21 10:56:15.427851-127.0.0.1-6a1
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v-Ch'}
+2022-06-21 10:56:15,752 ERROR frappe New Exception collected with id: 2022-06-21 10:56:15.748545-127.0.0.1-94b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v-D6'}
+2022-06-21 10:56:16,424 ERROR frappe New Exception collected with id: 2022-06-21 10:56:16.420471-127.0.0.1-7b3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v-SJ'}
+2022-06-21 10:56:17,031 ERROR frappe New Exception collected with id: 2022-06-21 10:56:17.009981-127.0.0.1-c02
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v-Xg'}
+2022-06-21 10:56:17,067 ERROR frappe New Exception collected with id: 2022-06-21 10:56:17.063245-127.0.0.1-20c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v-c7'}
+2022-06-21 10:56:17,425 ERROR frappe New Exception collected with id: 2022-06-21 10:56:17.421464-127.0.0.1-582
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v-hy'}
+2022-06-21 10:56:18,451 ERROR frappe New Exception collected with id: 2022-06-21 10:56:18.441253-127.0.0.1-127
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v-xa'}
+2022-06-21 10:56:18,778 ERROR frappe New Exception collected with id: 2022-06-21 10:56:18.775038-127.0.0.1-458
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v-xa'}
+2022-06-21 10:56:21,742 ERROR frappe New Exception collected with id: 2022-06-21 10:56:21.738909-127.0.0.1-6b4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v_gj'}
+2022-06-21 10:56:21,996 ERROR frappe New Exception collected with id: 2022-06-21 10:56:21.993003-127.0.0.1-e6b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65v_lj'}
+2022-06-21 10:56:23,434 ERROR frappe New Exception collected with id: 2022-06-21 10:56:23.430091-127.0.0.1-220
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w09h'}
+2022-06-21 10:56:24,743 ERROR frappe New Exception collected with id: 2022-06-21 10:56:24.734279-127.0.0.1-1df
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w0PI'}
+2022-06-21 10:56:27,981 ERROR frappe New Exception collected with id: 2022-06-21 10:56:27.977961-127.0.0.1-846
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w1DM'}
+2022-06-21 10:56:28,085 ERROR frappe New Exception collected with id: 2022-06-21 10:56:28.066589-127.0.0.1-6d0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w1HB'}
+2022-06-21 10:56:30,424 ERROR frappe New Exception collected with id: 2022-06-21 10:56:30.420293-127.0.0.1-120
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w1t2'}
+2022-06-21 10:56:30,727 ERROR frappe New Exception collected with id: 2022-06-21 10:56:30.724421-127.0.0.1-bc5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w1t5'}
+2022-06-21 10:56:31,980 ERROR frappe New Exception collected with id: 2022-06-21 10:56:31.976505-127.0.0.1-8b0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w2CC'}
+2022-06-21 10:56:32,076 ERROR frappe New Exception collected with id: 2022-06-21 10:56:32.073435-127.0.0.1-396
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w2Fh'}
+2022-06-21 10:56:35,726 ERROR frappe New Exception collected with id: 2022-06-21 10:56:35.723191-127.0.0.1-e33
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w35B'}
+2022-06-21 10:56:35,977 ERROR frappe New Exception collected with id: 2022-06-21 10:56:35.973274-127.0.0.1-3ef
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w3AC'}
+2022-06-21 10:56:36,361 ERROR frappe New Exception collected with id: 2022-06-21 10:56:36.358296-127.0.0.1-8e7
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w3J5'}
+2022-06-21 10:56:36,617 ERROR frappe New Exception collected with id: 2022-06-21 10:56:36.614048-127.0.0.1-a46
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w3K7'}
+2022-06-21 10:56:36,743 ERROR frappe New Exception collected with id: 2022-06-21 10:56:36.739224-127.0.0.1-a53
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w3P3'}
+2022-06-21 10:56:36,917 ERROR frappe New Exception collected with id: 2022-06-21 10:56:36.913631-127.0.0.1-9a0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w3Pn'}
+2022-06-21 10:56:37,422 ERROR frappe New Exception collected with id: 2022-06-21 10:56:37.418775-127.0.0.1-ca0
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w3aR'}
+2022-06-21 10:56:39,421 ERROR frappe New Exception collected with id: 2022-06-21 10:56:39.418065-127.0.0.1-729
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w43h'}
+2022-06-21 10:56:42,741 ERROR frappe New Exception collected with id: 2022-06-21 10:56:42.732229-127.0.0.1-8c8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w4ox'}
+2022-06-21 10:56:42,758 ERROR frappe New Exception collected with id: 2022-06-21 10:56:42.742999-127.0.0.1-d62
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w4oZ'}
+2022-06-21 10:56:42,770 ERROR frappe New Exception collected with id: 2022-06-21 10:56:42.748917-127.0.0.1-eb3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w4oa'}
+2022-06-21 10:56:42,789 ERROR frappe New Exception collected with id: 2022-06-21 10:56:42.785694-127.0.0.1-2e8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w4uJ'}
+2022-06-21 10:56:43,442 ERROR frappe New Exception collected with id: 2022-06-21 10:56:43.437266-127.0.0.1-e14
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w52C'}
+2022-06-21 10:56:46,443 ERROR frappe New Exception collected with id: 2022-06-21 10:56:46.436715-127.0.0.1-b27
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w5n4'}
+2022-06-21 10:56:48,433 ERROR frappe New Exception collected with id: 2022-06-21 10:56:48.429544-127.0.0.1-537
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w6GJ'}
+2022-06-21 10:56:48,731 ERROR frappe New Exception collected with id: 2022-06-21 10:56:48.726467-127.0.0.1-2e4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w6GK'}
+2022-06-21 10:56:49,094 ERROR frappe New Exception collected with id: 2022-06-21 10:56:49.089164-127.0.0.1-db6
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w6Lw'}
+2022-06-21 10:56:49,102 ERROR frappe New Exception collected with id: 2022-06-21 10:56:49.096661-127.0.0.1-6c2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w6M7'}
+2022-06-21 10:56:49,399 ERROR frappe New Exception collected with id: 2022-06-21 10:56:49.395276-127.0.0.1-254
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w6RI'}
+2022-06-21 10:56:51,423 ERROR frappe New Exception collected with id: 2022-06-21 10:56:51.419975-127.0.0.1-130
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w6_C'}
+2022-06-21 10:56:51,769 ERROR frappe New Exception collected with id: 2022-06-21 10:56:51.762992-127.0.0.1-4ad
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w6_r'}
+2022-06-21 10:56:52,442 ERROR frappe New Exception collected with id: 2022-06-21 10:56:52.433416-127.0.0.1-f3c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w7Eq'}
+2022-06-21 10:56:54,434 ERROR frappe New Exception collected with id: 2022-06-21 10:56:54.430920-127.0.0.1-81f
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w7k4'}
+2022-06-21 10:56:54,739 ERROR frappe New Exception collected with id: 2022-06-21 10:56:54.735089-127.0.0.1-d5a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w7k4'}
+2022-06-21 10:56:54,751 ERROR frappe New Exception collected with id: 2022-06-21 10:56:54.745083-127.0.0.1-fa5
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w7kX'}
+2022-06-21 10:56:54,770 ERROR frappe New Exception collected with id: 2022-06-21 10:56:54.766275-127.0.0.1-94c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w7pL'}
+2022-06-21 10:56:55,087 ERROR frappe New Exception collected with id: 2022-06-21 10:56:55.084188-127.0.0.1-88a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w7pd'}
+2022-06-21 10:56:57,432 ERROR frappe New Exception collected with id: 2022-06-21 10:56:57.428529-127.0.0.1-31d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w8Sx'}
+2022-06-21 10:56:57,754 ERROR frappe New Exception collected with id: 2022-06-21 10:56:57.751106-127.0.0.1-d75
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w8TN'}
+2022-06-21 10:57:00,727 ERROR frappe New Exception collected with id: 2022-06-21 10:57:00.723549-127.0.0.1-9e1
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w9Bq'}
+2022-06-21 10:57:00,746 ERROR frappe New Exception collected with id: 2022-06-21 10:57:00.742422-127.0.0.1-696
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w9Gt'}
+2022-06-21 10:57:02,338 ERROR frappe New Exception collected with id: 2022-06-21 10:57:02.335151-127.0.0.1-c50
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w9cQ'}
+2022-06-21 10:57:03,441 ERROR frappe New Exception collected with id: 2022-06-21 10:57:03.433175-127.0.0.1-61c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65w9wi'}
+2022-06-21 10:57:06,741 ERROR frappe New Exception collected with id: 2022-06-21 10:57:06.737502-127.0.0.1-5be
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wAfa'}
+2022-06-21 10:57:07,754 ERROR frappe New Exception collected with id: 2022-06-21 10:57:07.740386-127.0.0.1-425
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wAvB'}
+2022-06-21 10:57:08,093 ERROR frappe New Exception collected with id: 2022-06-21 10:57:08.090214-127.0.0.1-58e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wB3h'}
+2022-06-21 10:57:09,757 ERROR frappe New Exception collected with id: 2022-06-21 10:57:09.745200-127.0.0.1-52a
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wBOS'}
+2022-06-21 10:57:10,423 ERROR frappe New Exception collected with id: 2022-06-21 10:57:10.419603-127.0.0.1-2b8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wBe4'}
+2022-06-21 10:57:11,083 ERROR frappe New Exception collected with id: 2022-06-21 10:57:11.079815-127.0.0.1-956
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wBnH'}
+2022-06-21 10:57:11,404 ERROR frappe New Exception collected with id: 2022-06-21 10:57:11.401119-127.0.0.1-56d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wBsZ'}
+2022-06-21 10:57:11,678 ERROR frappe New Exception collected with id: 2022-06-21 10:57:11.670761-127.0.0.1-3cd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wBti'}
+2022-06-21 10:57:12,759 ERROR frappe New Exception collected with id: 2022-06-21 10:57:12.754568-127.0.0.1-eb1
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wC7q'}
+2022-06-21 10:57:13,734 ERROR frappe New Exception collected with id: 2022-06-21 10:57:13.730316-127.0.0.1-7f4
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wCMx'}
+2022-06-21 10:57:15,436 ERROR frappe New Exception collected with id: 2022-06-21 10:57:15.432960-127.0.0.1-a2c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wCsC'}
+2022-06-21 10:57:15,775 ERROR frappe New Exception collected with id: 2022-06-21 10:57:15.771516-127.0.0.1-e76
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wCsi'}
+2022-06-21 10:57:18,091 ERROR frappe New Exception collected with id: 2022-06-21 10:57:18.087639-127.0.0.1-0cd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wDUl'}
+2022-06-21 10:57:18,769 ERROR frappe New Exception collected with id: 2022-06-21 10:57:18.766115-127.0.0.1-0a2
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wDbY'}
+2022-06-21 10:57:19,424 ERROR frappe New Exception collected with id: 2022-06-21 10:57:19.420194-127.0.0.1-e89
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wDqi'}
+2022-06-21 10:57:21,426 ERROR frappe New Exception collected with id: 2022-06-21 10:57:21.422586-127.0.0.1-509
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wEJy'}
+2022-06-21 10:57:23,761 ERROR frappe New Exception collected with id: 2022-06-21 10:57:23.758273-127.0.0.1-9fd
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wEpg'}
+2022-06-21 10:57:24,425 ERROR frappe New Exception collected with id: 2022-06-21 10:57:24.422457-127.0.0.1-c65
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wF2q'}
+2022-06-21 10:57:24,747 ERROR frappe New Exception collected with id: 2022-06-21 10:57:24.743785-127.0.0.1-242
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wF39'}
+2022-06-21 10:57:25,432 ERROR frappe New Exception collected with id: 2022-06-21 10:57:25.429251-127.0.0.1-426
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wFIR'}
+2022-06-21 10:57:27,734 ERROR frappe New Exception collected with id: 2022-06-21 10:57:27.730981-127.0.0.1-990
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wFni'}
+2022-06-21 10:57:29,438 ERROR frappe New Exception collected with id: 2022-06-21 10:57:29.432931-127.0.0.1-914
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wGGx'}
+2022-06-21 10:57:31,431 ERROR frappe New Exception collected with id: 2022-06-21 10:57:31.427555-127.0.0.1-e9e
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wGmB'}
+2022-06-21 10:57:31,738 ERROR frappe New Exception collected with id: 2022-06-21 10:57:31.734495-127.0.0.1-3fc
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wGmC'}
+2022-06-21 10:57:31,770 ERROR frappe New Exception collected with id: 2022-06-21 10:57:31.766877-127.0.0.1-dab
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wGrf'}
+2022-06-21 10:57:33,729 ERROR frappe New Exception collected with id: 2022-06-21 10:57:33.725169-127.0.0.1-e9c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wHFS'}
+2022-06-21 10:57:33,976 ERROR frappe New Exception collected with id: 2022-06-21 10:57:33.973158-127.0.0.1-029
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wHKW'}
+2022-06-21 10:57:34,371 ERROR frappe New Exception collected with id: 2022-06-21 10:57:34.368498-127.0.0.1-30c
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wHTP'}
+2022-06-21 10:57:34,635 ERROR frappe New Exception collected with id: 2022-06-21 10:57:34.630432-127.0.0.1-fe3
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wHUb'}
+2022-06-21 10:57:35,036 ERROR frappe New Exception collected with id: 2022-06-21 10:57:35.031121-127.0.0.1-e69
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wHdh'}
+2022-06-21 10:57:35,273 ERROR frappe New Exception collected with id: 2022-06-21 10:57:35.269686-127.0.0.1-306
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wHex'}
+2022-06-21 10:57:35,753 ERROR frappe New Exception collected with id: 2022-06-21 10:57:35.744626-127.0.0.1-c3b
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wHn-'}
+2022-06-21 10:57:35,938 ERROR frappe New Exception collected with id: 2022-06-21 10:57:35.934576-127.0.0.1-2b8
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wHq9'}
+2022-06-21 10:57:37,432 ERROR frappe New Exception collected with id: 2022-06-21 10:57:37.428896-127.0.0.1-533
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wIDx'}
+2022-06-21 10:57:37,744 ERROR frappe New Exception collected with id: 2022-06-21 10:57:37.738833-127.0.0.1-43d
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wIDy'}
+2022-06-21 10:57:37,766 ERROR frappe New Exception collected with id: 2022-06-21 10:57:37.761185-127.0.0.1-e88
+Site: erpnext
+Form Dict: {'EIO': '3', 'transport': 'polling', 't': 'O65wIJJ'}

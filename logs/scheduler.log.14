@@ -1,0 +1,16 @@
+2022-06-29 20:40:17,771 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erpnext
+2022-06-29 20:40:17,931 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erpnext
+2022-06-29 20:40:18,007 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erpnext
+2022-06-29 20:40:18,260 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erpnext
+2022-06-29 20:40:18,330 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erpnext
+2022-06-29 20:40:18,470 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erpnext
+2022-06-29 20:40:18,529 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erpnext
+2022-06-29 20:40:18,661 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erpnext
+2022-06-29 20:40:18,727 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erpnext
+2022-06-29 20:40:18,900 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erpnext
+2022-06-29 20:40:18,972 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erpnext
+2022-06-29 20:40:19,178 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erpnext
+2022-06-29 20:40:19,254 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erpnext
+2022-06-29 20:40:19,488 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erpnext
+2022-06-29 20:40:19,574 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erpnext
+2022-06-29 20:40:19,749 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erpnext

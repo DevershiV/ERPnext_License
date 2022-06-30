@@ -1,0 +1,18 @@
+3468:C 28 Jun 2022 12:45:50.158 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+3468:C 28 Jun 2022 12:45:50.158 # Redis version=6.0.16, bits=64, commit=00000000, modified=0, pid=3468, just started
+3468:C 28 Jun 2022 12:45:50.158 # Configuration loaded
+3468:M 28 Jun 2022 12:45:50.160 * Running mode=standalone, port=11000.
+3468:M 28 Jun 2022 12:45:50.160 # Server initialized
+3468:M 28 Jun 2022 12:45:50.160 * Ready to accept connections
+1168:C 30 Jun 2022 08:15:30.040 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1168:C 30 Jun 2022 08:15:30.041 # Redis version=6.0.16, bits=64, commit=00000000, modified=0, pid=1168, just started
+1168:C 30 Jun 2022 08:15:30.041 # Configuration loaded
+1168:M 30 Jun 2022 08:15:30.055 * Running mode=standalone, port=11000.
+1168:M 30 Jun 2022 08:15:30.055 # Server initialized
+1168:M 30 Jun 2022 08:15:30.058 * Ready to accept connections
+1118:C 30 Jun 2022 08:22:48.153 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1118:C 30 Jun 2022 08:22:48.155 # Redis version=6.0.16, bits=64, commit=00000000, modified=0, pid=1118, just started
+1118:C 30 Jun 2022 08:22:48.155 # Configuration loaded
+1118:M 30 Jun 2022 08:22:48.182 * Running mode=standalone, port=11000.
+1118:M 30 Jun 2022 08:22:48.183 # Server initialized
+1118:M 30 Jun 2022 08:22:48.189 * Ready to accept connections
